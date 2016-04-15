@@ -1,6 +1,6 @@
 # MC-Club-Server
 Go to mc folder
-> Contains the Survival Server
-< # BungeeCord Server
+Contains the Survival Server
+# BungeeCord Server
 Go to the bungee folder
-> Contains the BungeeCord Server
+Contains the BungeeCord Server
