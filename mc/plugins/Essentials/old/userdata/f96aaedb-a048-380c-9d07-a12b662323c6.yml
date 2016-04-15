@@ -1,0 +1,30 @@
+lastAccountName: dubstepkillerz
+timestamps:
+  login: 1422207040878
+  lastteleport: 1422207836237
+  logout: 1422208042072
+ipAddress: 207.255.217.164
+lastlocation:
+  world: survival
+  x: 528.4186097164499
+  y: 13.0
+  z: 449.3319606383524
+  yaw: 245.41254
+  pitch: 16.43935
+homes:
+  home:
+    world: survival
+    x: 453.5201721496106
+    y: 72.0
+    z: 480.6304603057356
+    yaw: 79.4707
+    pitch: 31.759335
+afk: false
+logoutlocation:
+  world: survival
+  x: 1422.633629152301
+  y: 77.0
+  z: 830.7614071993551
+  yaw: -185.68567
+  pitch: 22.94985
+money: '95.48999999999997'

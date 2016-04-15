@@ -1,0 +1,28 @@
+lastAccountName: fabkebab
+timestamps:
+  login: 1418484891912
+  logout: 1418486019509
+ipAddress: 23.116.26.104
+lastlocation:
+  world: survival
+  x: 279.5
+  y: 70.0
+  z: 302.5
+  yaw: 267.74973
+  pitch: 22.499868
+homes:
+  home:
+    world: survival
+    x: 67.05699173524036
+    y: 69.0
+    z: 515.7442286162128
+    yaw: -86.69995
+    pitch: 13.650056
+logoutlocation:
+  world: survival
+  x: 70.96097779309466
+  y: 97.0
+  z: 519.8882024155034
+  yaw: -192.74951
+  pitch: 7.6500387
+money: '60.39000000000001'

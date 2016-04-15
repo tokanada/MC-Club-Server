@@ -1,0 +1,20 @@
+lastAccountName: 9digger
+timestamps:
+  login: 1421020519689
+  logout: 1421020524404
+ipAddress: 98.249.202.122
+lastlocation:
+  world: survival
+  x: 336.20709590070584
+  y: 71.0
+  z: 456.8543228567933
+  yaw: -34.654785
+  pitch: 10.050001
+logoutlocation:
+  world: survival
+  x: 337.2322443399369
+  y: 71.0
+  z: 457.53286640771336
+  yaw: -95.10217
+  pitch: 22.199999
+money: '39.120000000000005'

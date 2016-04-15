@@ -1,0 +1,260 @@
+lastAccountName: Umbra_Stalker
+timestamps:
+  login: 1420760218217
+  logout: 1420761148301
+  lastteleport: 1420760718960
+  lastheal: 1419886641069
+ipAddress: 216.8.227.15
+lastlocation:
+  world: survival
+  x: 959.4128802857016
+  y: 69.0
+  z: 263.0597834681441
+  yaw: -116.90998
+  pitch: 2.6506166
+logoutlocation:
+  world: survival
+  x: -55824.297334418974
+  y: 110.68178213119491
+  z: -6393.409460423557
+  yaw: 323.48132
+  pitch: 62.80368
+afk: false
+homes:
+  village:
+    world: survival
+    x: 1094.012499988079
+    y: 64.0
+    z: 373.6581146326849
+    yaw: -260.03394
+    pitch: 9.968855
+  haha:
+    world: survival
+    x: 331.1434002960501
+    y: 71.0
+    z: -271.9659879035256
+    yaw: -273.5454
+    pitch: 18.785257
+  dof:
+    world: survival
+    x: 180.499946690711
+    y: 83.0
+    z: 956.20765896084
+    yaw: -65.95621
+    pitch: 37.052696
+  death:
+    world: survival
+    x: 1322.0946016811322
+    y: 89.0
+    z: 19684.726355734478
+    yaw: -66.26181
+    pitch: 25.188532
+  ov:
+    world: survival
+    x: 2195.128577357914
+    y: 65.0
+    z: 86.7095747847275
+    yaw: -359.76562
+    pitch: 39.242977
+  swamp:
+    world: survival
+    x: 1554.572991044744
+    y: 70.0
+    z: -2735.685318068647
+    yaw: -94.25537
+    pitch: 37.600243
+  sp:
+    world: survival
+    x: 1510.2483950405058
+    y: 92.0
+    z: -9475.76485961934
+    yaw: -67.2771
+    pitch: 31.044224
+  ips:
+    world: survival
+    x: 2238.1441781628064
+    y: 97.0
+    z: -15534.400483393158
+    yaw: -274.22363
+    pitch: 68.64449
+  doud:
+    world: survival
+    x: 2044.0543225264432
+    y: 94.87254093001216
+    z: -18675.467593572444
+    yaw: -111.14404
+    pitch: 54.81415
+  jungle:
+    world: survival
+    x: 2021.4914742695926
+    y: 114.0
+    z: -24163.133714180858
+    yaw: -155.94681
+    pitch: 50.20941
+  sisbase:
+    world: survival
+    x: 1002.6999999880791
+    y: 67.0
+    z: 237.35864528437736
+    yaw: -252.16147
+    pitch: 24.918741
+  moop:
+    world: survival
+    x: 1447.3845318232884
+    y: 76.0
+    z: 838.6088082803641
+    yaw: -256.524
+    pitch: 10.053758
+  des:
+    world: survival
+    x: 971.5609224597492
+    y: 68.0
+    z: -9678.974424224525
+    yaw: -132.62183
+    pitch: 19.36258
+  grinder:
+    world: survival
+    x: 1518.4012320768497
+    y: 20.0
+    z: -2544.103673188658
+    yaw: -353.9878
+    pitch: 27.211151
+  fishin:
+    world: survival
+    x: 967.6999999880791
+    y: 63.0
+    z: -552.3000000119209
+    yaw: -261.07492
+    pitch: 18.815004
+  doubin:
+    world: survival
+    x: 2052.692801287678
+    y: 40.0
+    z: -18697.736248442023
+    yaw: -83.523224
+    pitch: 35.283913
+  vacation:
+    world: survival
+    x: 1757.4436668231372
+    y: 60.0
+    z: -114.6622284265173
+    yaw: 274.30664
+    pitch: 6.9359665
+  end:
+    world: survival_the_end
+    x: 4.349110562813882
+    y: 62.0
+    z: 10.296979769680119
+    yaw: 25.560814
+    pitch: -12.700649
+  endport:
+    world: survival
+    x: 539.8291110310819
+    y: 37.0
+    z: -531.0476384944141
+    yaw: -67.72412
+    pitch: 10.936656
+  race:
+    world: survival_nether
+    x: 185.30000001192093
+    y: 128.0
+    z: 1515.300000011921
+    yaw: -179.72601
+    pitch: 37.79767
+  ho2:
+    world: survival
+    x: 8939.699999988079
+    y: 44.0
+    z: 89291.69999998808
+    yaw: -229.29065
+    pitch: 20.427986
+  home:
+    world: survival
+    x: 955.9616040917053
+    y: 69.0
+    z: 266.0671546060813
+    yaw: -101.3953
+    pitch: 23.093485
+  ava:
+    world: survival
+    x: 1171.5887735389272
+    y: 71.23936394214431
+    z: 79531.58840329279
+    yaw: 82.99121
+    pitch: 39.039772
+  dv:
+    world: survival
+    x: -15112.300000011921
+    y: 65.0
+    z: -31560.085958665626
+    yaw: -103.324615
+    pitch: 18.997528
+  bub:
+    world: survival
+    x: -34633.5732611136
+    y: 102.61468410702508
+    z: -9511.220755074972
+    yaw: -233.95004
+    pitch: 67.9144
+  sb:
+    world: survival
+    x: -41236.09538639408
+    y: 162.03599344641623
+    z: -6997.255005748932
+    yaw: -308.05533
+    pitch: 49.296783
+  cldes:
+    world: survival
+    x: -42093.17804045752
+    y: 119.24694653352867
+    z: -6495.074686113072
+    yaw: -308.23785
+    pitch: 60.613373
+  podz:
+    world: survival
+    x: -54699.03554417121
+    y: 67.0
+    z: -6238.193557460849
+    yaw: -50.87671
+    pitch: 29.584019
+money: '52.86'
+nickname: §6Umbra_Stalker
+godmode: true
+powertools:
+  '3':
+  - break
+  '262':
+  - break
+  '352':
+  - top
+  '364':
+  - feed
+  '375':
+  - break
+  '369':
+  - lightning
+  '340':
+  - break
+  '371':
+  - v
+  '295':
+  - break
+  '266':
+  - break
+  '38':
+  - fireball
+  '50':
+  - jump
+  '353':
+  - jump
+  '423':
+  - fireball
+  '409':
+  - jump
+  '351':
+  - break
+  '95':
+  - fireball
+  '65':
+  - break
+powertoolsenabled: true

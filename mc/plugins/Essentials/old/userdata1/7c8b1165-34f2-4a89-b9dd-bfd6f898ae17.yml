@@ -1,0 +1,47 @@
+lastAccountName: DreamingDinosaur
+timestamps:
+  login: 1425932062793
+  lastteleport: 1425845701806
+  logout: 1425932298681
+ipAddress: 86.45.69.15
+lastlocation:
+  world: survival
+  x: -3762.3813827778945
+  y: 64.0
+  z: 508.87562381049577
+  yaw: -217.20111
+  pitch: -52.729313
+powertools:
+  '405':
+  - mob sheep 10
+  '293':
+  - break
+  '398':
+  - broadcast &5&l&k1234567890
+  '352':
+  - smite
+nickname: §1§lTotal§2Derp
+godmode: true
+logoutlocation:
+  world: survival
+  x: -3780.6976678518286
+  y: 64.0
+  z: 499.7729194335667
+  yaw: -200.29126
+  pitch: 28.769617
+homes:
+  acro:
+    world: survival
+    x: 461.5219204364281
+    y: 170.0
+    z: 207.5646880240375
+    yaw: 359.37973
+    pitch: 12.849428
+  fac:
+    world: survival
+    x: -3765.300000011921
+    y: 64.0
+    z: 495.3000000119205
+    yaw: -305.26367
+    pitch: 8.137619
+afk: false

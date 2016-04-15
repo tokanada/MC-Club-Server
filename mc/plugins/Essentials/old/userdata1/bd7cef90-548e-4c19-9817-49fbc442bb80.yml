@@ -1,0 +1,28 @@
+lastAccountName: iwearfurpants
+timestamps:
+  login: 1426118065966
+  lastteleport: 1426119488684
+  logout: 1426120881951
+ipAddress: 67.175.13.158
+lastlocation:
+  world: survival
+  x: 625.4078325848226
+  y: 68.0
+  z: 452.4381891041087
+  yaw: 197.20213
+  pitch: 87.299995
+homes:
+  home:
+    world: survival
+    x: 625.4078325848226
+    y: 68.0
+    z: 452.4381891041087
+    yaw: 197.20213
+    pitch: 87.299995
+logoutlocation:
+  world: survival
+  x: 625.927747393949
+  y: 65.0
+  z: 451.2520730202149
+  yaw: -348.20654
+  pitch: 20.099981

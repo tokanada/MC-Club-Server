@@ -1,0 +1,59 @@
+lastAccountName: Programmer0001
+timestamps:
+  login: 1423276469046
+  logout: 1423276923635
+  lastheal: 1418001531562
+  lastteleport: 1423276902232
+ipAddress: 100.9.220.54
+lastlocation:
+  world: survival
+  x: 358.1610921265426
+  y: 78.5
+  z: 271.1069333560844
+  yaw: -189.00058
+  pitch: 46.799988
+logoutlocation:
+  world: survival
+  x: 355.3756661023097
+  y: 71.0
+  z: 267.8884814708421
+  yaw: 62.099323
+  pitch: 17.549994
+homes:
+  home:
+    world: survival
+    x: 359.3846127688776
+    y: 70.0
+    z: 274.9865620172178
+    yaw: 83.84949
+    pitch: 26.849768
+  mine:
+    world: survival
+    x: 369.83432800438834
+    y: 70.0
+    z: 283.49889117359044
+    yaw: -89.700005
+    pitch: 34.80002
+  aldaria:
+    world: survival
+    x: 1423.3750403247227
+    y: 83.5
+    z: 819.1184498205349
+    yaw: -44.86438
+    pitch: -13.050046
+  enchant:
+    world: survival
+    x: 1420.633056781293
+    y: 83.0
+    z: 775.3846947524103
+    yaw: -173.0614
+    pitch: 19.949984
+  spleef:
+    world: survival
+    x: 490.8652064200241
+    y: 70.0
+    z: 380.1875647799843
+    yaw: -119.883064
+    pitch: 6.00002
+money: '573.9699999999997'
+afk: false

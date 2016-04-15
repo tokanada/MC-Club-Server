@@ -1,0 +1,30 @@
+lastAccountName: wackyzack7
+timestamps:
+  login: 1421981196770
+  lastteleport: 1421981203422
+  logout: 1421981243874
+ipAddress: 76.95.171.181
+lastlocation:
+  world: survival
+  x: 357.0150802093943
+  y: 62.0
+  z: -264.46350998114434
+  yaw: 277.1828
+  pitch: 4.9570704
+logoutlocation:
+  world: survival
+  x: 291.7306710061998
+  y: 70.0
+  z: 302.1903861189674
+  yaw: 287.7005
+  pitch: 33.74984
+homes:
+  home:
+    world: survival
+    x: 356.7373279734997
+    y: 62.0
+    z: -278.4643120727526
+    yaw: 140.10205
+    pitch: 30.600018
+afk: false
+money: '251.98'

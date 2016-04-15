@@ -1,0 +1,21 @@
+lastAccountName: tonks
+timestamps:
+  login: 1421970002109
+  lastteleport: 1421971076694
+  logout: 1421971133299
+ipAddress: 174.28.142.131
+lastlocation:
+  world: survival
+  x: 424.7407241164075
+  y: 67.0
+  z: 314.30000001192093
+  yaw: 279.44556
+  pitch: 33.9
+logoutlocation:
+  world: beast
+  x: 990.1008874527316
+  y: 4.0
+  z: 1682.5200377580989
+  yaw: 65.01764
+  pitch: 17.849974
+money: '59.94'

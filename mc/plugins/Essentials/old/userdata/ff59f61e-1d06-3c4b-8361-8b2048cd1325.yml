@@ -1,0 +1,22 @@
+lastAccountName: supersnowygolem
+timestamps:
+  login: 1420876524216
+  logout: 1420880257658
+  lastteleport: 1420880164203
+ipAddress: 85.158.44.146
+lastlocation:
+  world: survival
+  x: 305.5957868703064
+  y: 65.0
+  z: 305.94205509377696
+  yaw: 345.89972
+  pitch: -1.2001897
+logoutlocation:
+  world: survival
+  x: 343.9036719252896
+  y: 72.0
+  z: 348.9585078580636
+  yaw: 0.8999081
+  pitch: 10.649946
+money: '203.9599999999999'
+afk: false

@@ -1,0 +1,44 @@
+lastAccountName: White_Fang_
+timestamps:
+  login: 1425749542900
+  lastteleport: 1425752848425
+  logout: 1425753444428
+ipAddress: 216.68.147.98
+lastlocation:
+  world: survival
+  x: 427.40966511173076
+  y: 70.0
+  z: 260.01357478021635
+  yaw: -125.835815
+  pitch: 12.732241
+logoutlocation:
+  world: survival
+  x: 474.2367052368377
+  y: 51.0
+  z: 248.26127910101764
+  yaw: 85.50206
+  pitch: 26.84987
+afk: false
+nickname: §5§lWhiteFang
+homes:
+  friend:
+    world: survival
+    x: 1375.699999988079
+    y: 64.0
+    z: 345.8593835250016
+    yaw: -175.95264
+    pitch: 28.19998
+  villa:
+    world: survival
+    x: 503.3422314232573
+    y: 74.0
+    z: 253.8850351796935
+    yaw: -269.2481
+    pitch: 30.3
+  faction:
+    world: survival
+    x: -3767.7292317966817
+    y: 64.0
+    z: 503.93027960681843
+    yaw: -295.66376
+    pitch: 11.287618

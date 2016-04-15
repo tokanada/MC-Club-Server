@@ -1,0 +1,32 @@
+lastAccountName: GBarberian23
+timestamps:
+  login: 1423442252346
+  logout: 1423442850971
+  lastteleport: 1422809872165
+ipAddress: 71.203.122.172
+lastlocation:
+  world: survival
+  x: 389.55162728388314
+  y: 71.0
+  z: 404.1157522792253
+  yaw: 100.96103
+  pitch: 4.352208
+logoutlocation:
+  world: survival
+  x: 452.1963234323197
+  y: 72.0
+  z: 480.9242862478687
+  yaw: -267.46216
+  pitch: 31.029905
+homes:
+  home:
+    world: survival
+    x: 452.5983183919183
+    y: 72.0
+    z: 479.45149685948655
+    yaw: 42.42157
+    pitch: 17.655184
+afk: false
+nickname: GB
+powertools: {}
+money: '1087.1499999999994'

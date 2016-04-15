@@ -1,0 +1,61 @@
+# ==========================================
+# = CombatIndicator Configuration          =
+# ==========================================
+
+# Whether the plugin should automatically notify
+# you about new updates in the console
+# WE HIGHLY SUGGEST YOU LEAVE THIS ON TRUE!
+check-updates: true
+
+
+# The max radius of players seeing damage/health information
+radius-x: 7
+radius-y: 5
+radius-z: 7
+
+# Whether holograms should move
+move-holograms: true
+
+# Ticks until the hologram is removed
+ticks-till-remove: 40
+
+# How long to wait, until an update is scheduled.
+# An update will move the hologram to the correct position and
+# removes it, if necessary
+# Decrease this value, if your holograms aren't smooth; increase
+# it to reduce server lagging
+update-ticks: 2
+
+# The y-Offset of the hologram
+yOffsetNormal: 0.6
+
+# The y-Offset of the hologram, if the entity has a shown name (e.g. a player)
+yOffsetName: 1
+
+# Whether to use the better holograms added in MC 1.8.3
+#
+# Better holograms will never block actions of players (right/left clicks)
+# (if you're server is older than 1.8.3 this setting is ignored)
+#
+# Warning if turned on: Players with minecraft version
+# * 1.8.0 will see holograms higher than usual
+# * 1.8.1 won't see holograms (only flickering)
+# * >= 1.8.2 will see the better holograms
+#
+# this is caused by a bug in the minecraft client
+#
+use-better-holograms: true
+
+# Section for indicating of damage
+# -------------------------------------------
+damage:
+  -
+    format: '&c-%final_val%'
+    df: '0.#'
+
+# Section for indicating healing
+# -------------------------------------------
+healing:
+  -
+    format: '&2+%val%'
+    df: '0.#'

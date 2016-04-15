@@ -1,0 +1,29 @@
+lastlocation:
+  world: survival
+  x: 412.3832702402136
+  y: 70.7531999805212
+  z: 266.30595574241164
+  yaw: -209.29224
+  pitch: 20.192965
+lastAccountName: AlalJax
+timestamps:
+  login: 1421017141158
+  lastteleport: 1421018355949
+  logout: 1421018398804
+ipAddress: 76.100.161.141
+homes:
+  home:
+    world: survival
+    x: 704.3422595924291
+    y: 87.0
+    z: 104.56064554328383
+    yaw: -178.97096
+    pitch: 15.466668
+logoutlocation:
+  world: survival
+  x: 293.01249998807907
+  y: 70.0
+  z: 305.21324061716524
+  yaw: 345.5349
+  pitch: 33.32456
+money: '326.81999999999994'

@@ -1,0 +1,29 @@
+lastAccountName: White_Fang_
+timestamps:
+  login: 1423325320979
+  logout: 1423332046389
+  lastteleport: 1423331990882
+ipAddress: 216.68.147.98
+lastlocation:
+  world: survival
+  x: 511.3654291517854
+  y: 5.0
+  z: 193.5081503358267
+  yaw: 337.91614
+  pitch: 8.400242
+logoutlocation:
+  world: survival
+  x: 497.52888841232374
+  y: 74.0
+  z: 253.737426454147
+  yaw: 269.8133
+  pitch: 9.900008
+money: '72.18'
+homes:
+  home:
+    world: survival
+    x: 497.7200728731273
+    y: 74.0
+    z: 253.91482781927826
+    yaw: 275.51263
+    pitch: 33.00003

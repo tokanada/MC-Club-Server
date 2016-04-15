@@ -1,0 +1,30 @@
+lastAccountName: 2puffer1
+timestamps:
+  login: 1421016365998
+  logout: 1421018403806
+  lastteleport: 1421018352098
+ipAddress: 76.100.161.141
+lastlocation:
+  world: survival
+  x: 279.37377187891315
+  y: 70.0
+  z: 302.96893998659795
+  yaw: 265.04977
+  pitch: 21.44987
+logoutlocation:
+  world: survival
+  x: 293.5028833609201
+  y: 71.5
+  z: 301.1976023410422
+  yaw: -3.6002407
+  pitch: 30.449858
+homes:
+  home:
+    world: survival
+    x: 703.9644905958584
+    y: 87.0
+    z: 104.05403908308438
+    yaw: -180.70972
+    pitch: 12.449949
+nickname: MrPuff
+money: '416.65000000000026'

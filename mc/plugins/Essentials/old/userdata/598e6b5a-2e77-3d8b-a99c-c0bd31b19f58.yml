@@ -1,0 +1,101 @@
+timestamps:
+  login: 1423712888252
+  lastteleport: 1423522855759
+  logout: 1423713705128
+  kits:
+    tools: 1417900128806
+    color: 1421637446025
+    firework: 1406645604466
+    dtools: 1392070697417
+    notch: 1391984989724
+  lastheal: 1407109649112
+ipAddress: 192.168.1.69
+lastlocation:
+  world: beast
+  x: 773.5717658440074
+  y: 8.200000047683718
+  z: 1643.0363554745575
+  yaw: 281.9187
+  pitch: -4.0500665
+logoutlocation:
+  world: beast
+  x: 779.1298700430116
+  y: 4.0
+  z: 1704.8957748656117
+  yaw: 16.181152
+  pitch: 52.900105
+nickname: §1§kD§d§otwilysparklez§1§kD
+homes:
+  cowboys:
+    world: '172'
+    x: -1908.0151558970683
+    y: 70.0
+    z: 573.551354565406
+    yaw: -172.38492
+    pitch: -1.6499851
+  statue:
+    world: beast
+    x: -3230.5138550363376
+    y: 40.39442834544234
+    z: -726.3022215208456
+    yaw: 237.41368
+    pitch: -12.299944
+  beast:
+    world: beast
+    x: 98.45283923260607
+    y: 4.0
+    z: 98.80093682598115
+    yaw: -92.25744
+    pitch: 29.922197
+  dart:
+    world: beast
+    x: 2011.9801240312515
+    y: 4.0
+    z: 2003.1169093314934
+    yaw: 74.481636
+    pitch: 86.48178
+  cool:
+    world: beast
+    x: 1138.2629801897856
+    y: 5.0
+    z: 1656.7802123773
+    yaw: 267.61987
+    pitch: 36.941174
+  home:
+    world: survival
+    x: 373.4079354377805
+    y: 70.0
+    z: 291.5897566978564
+    yaw: 138.89954
+    pitch: 22.949844
+  shaderme:
+    world: survival
+    x: 1011.9641409062255
+    y: 78.0
+    z: 1634.429272612371
+    yaw: -9.142095
+    pitch: -29.400265
+  spawn:
+    world: flat
+    x: -1.1494784359500763
+    y: 25.0
+    z: -2.100252822364528
+    yaw: 157.83241
+    pitch: 13.649998
+afk: false
+money: '1765.7999999999997'
+godmode: true
+powertools:
+  '266':
+  - /fill air
+  '276':
+  - smite
+  '261':
+  - fireball
+  '354':
+  - smite
+  '50':
+  - butcher
+teleportenabled: true
+socialspy: true
+lastAccountName: Davetube24

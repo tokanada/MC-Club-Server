@@ -1,0 +1,584 @@
+groups:
+  Guest:
+    permissions:
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.balance
+    - essentials.compass
+    - essentials.delhome
+    - essentials.depth
+    - essentials.eco
+    - essentials.help
+    - essentials.helpop
+    - essentials.home
+    - essentials.home.bed
+    - essentials.getpos
+    - essentials.itemdb
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.mail.sendall
+    - essentials.motd
+    - essentials.me
+    - essentials.msg
+    - essentials.msg.color
+    - essentials.mute.notify
+    - essentials.mute.offline
+    - essentials.pay
+    - essentials.ping
+    - essentials.realname
+    - essentials.recipe
+    - essentials.rules
+    - essentials.sell
+    - essentials.sethome
+    - essentials.sethome.bed
+    - essentials.spawn
+    - essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.tpahere
+    - essentials.tptoggle
+    - essentials.warp
+    - essentials.whois
+    - essentials.worth
+    - chatex.allowchat
+    - factions.access
+    - factions.access.faction
+    - factions.autoclaim
+    - factions.claim
+    - factions.claim.radius
+    - factions.create
+    - factions.demote
+    - factions.description
+    - factions.disband
+    - factions.faction
+    - factions.flag
+    - factions.flag.set
+    - factions.home
+    - factions.invite
+    - factions.join
+    - factions.kick
+    - factions.leader
+    - factions.leave
+    - factions.list
+    - factions.map
+    - factions.money
+    - factions.money.balance
+    - factions.money.deposit
+    - factions.money.withdraw
+    - factions.officer
+    - factions.open
+    - factions.player
+    - factions.promote
+    - factions.relation
+    - factions.seechunk
+    - factions.sethome
+    - factions.name
+    - factions.title
+    - factions.unclaim
+    - factions.unclaimall
+    - griefprevention.buysellclaimblocks
+    - multiverse.sleep
+    - bungeeteleporter.sign.use.*
+    options:
+      suffix: '&8[&7Guest&8]&f:'
+      default: true
+  Member:
+    permissions:
+    - essentials.back
+    - essentials.balance.others
+    - essentials.book
+    - essentials.book.author
+    - essentials.book.others
+    - essentials.book.title
+    - essentials.eco.loan
+    - essentials.enderchest
+    - essentials.hat
+    - essentials.msg.multiple
+    - essentials.near
+    - essentials.pay.multiple
+    - essentials.seen
+    - essentials.seen.banreason
+    - essentials.suicide
+    - essentials.top
+    - essentials.sethome.multiple
+    - essentials.workbench
+    - chatex.chat.color
+    - chatex.chat.url
+    - factions.money.balance.any
+    inheritance:
+    - Guest
+    options:
+      suffix: '&8[&9Member&8]&3:'
+  MVP:
+    permissions:
+    - essentials.afk.kickexempt
+    - essentials.keepxp
+    - essentials.ban.notify
+    - essentials.clearinventory
+    - essentials.exp
+    - essentials.feed
+    - essentials.jump
+    - essentials.near.maxexempt
+    - essentials.nick
+    - essentials.nick.color
+    - essentials.nick.format
+    - essentials.nick.magic
+    - essentials.nick.others
+    - essentials.msg.color
+    - essentials.msg.format
+    - essentials.msg.magic
+    - essentials.msg.url
+    - essentials.sethome.multiple.unlimited
+    - essentials.repair
+    - essentials.repair.armour
+    - essentials.speed
+    - essentials.tppos
+    - essentials.teleport.cooldown.bypass
+    - essentials.teleport.timer.move
+    - essentials.vanish
+    - essentials.vanish.effect
+    - chatex.chat.magic
+    - chatex.chat.bold
+    - chatex.chat.strikethrough
+    - chatex.chat.underline
+    - chatex.chat.italic
+    - chatex.chat.reset
+    - factionsplus.flightinownterritory
+    inheritance:
+    - Member
+    options:
+      suffix: '&8[&6&lMVP&8]&d:'
+  VIP:
+    permissions:
+    - essentials.balancetop
+    - essentials.enchant
+    - essentials.enderchest.others
+    - essentials.firework
+    - essentials.firework.firework
+    - essentials.fireball
+    - essentials.fly
+    - essentials.fly.safelogin
+    - essentials.getpos.others
+    - essentials.heal
+    - essentials.powertool
+    - essentials.powertooltoggle
+    - essentials.seen.extra
+    - essentials.repair.all
+    - essentials.repair.enchanted
+    - essentials.teleport.timer.bypass
+    - factionsplus.keepItemsOnDeathInWarZone
+    inheritance:
+    - MVP
+    options:
+      suffix: '&8[&2&lVIP&8]&a:'
+  ULTRA:
+    permissions:
+    - essentials.lightning
+    - essentials.god
+    - essentials.thunder
+    - factions.powerboost
+    - essentials.break
+    - essentials.break.bedrock
+    - essentials.heal.cooldown.bypass
+    - essentials.heal.others
+    - essentials.feed.cooldown.bypass
+    - essentials.feed.others
+    inheritance:
+    - VIP
+    options:
+      suffix: '&8[&b&lULTRA&8]&b:'
+  Pmod:
+    permissions:
+    - touchscreenholograms.admin
+    - holograms.*
+    - essentials.weather
+    - essentials.time.set
+    - essentials.tp
+    - essentials.tphere
+    - essentials.tpo
+    - essentials.kick
+    - essentials.tp
+    - essentials.gamemode
+    - essentials.broadcast
+    - essentials.effect
+    - essentials.tphere
+    - essentials.setworth
+    - essentials.socialspy
+    - essentials.spawner.*
+    - essentials.spawnmob.*
+    - essentials.spawn.others
+    - essentials.setwarp
+    - essentials.warp.list
+    - essentials.seen.ipsearch
+    - essentials.mute
+    - essentials.powertool.append
+    - essentials.ptime
+    - essentials.ptime.others
+    - essentials.invsee
+    - essentials.invsee.modify
+    - essentials.helpop.recieve
+    - essentials.give
+    - essentials.item
+    - essentials.oversizedstacks
+    - essentials.jail
+    - essentials.kickall
+    - essentials.kill
+    - essentials.silentjoin
+    - essentials.build
+    - essentials.fly.others
+    - essentials.exp.give
+    - essentials.bigtree
+    - essentials.antioch
+    - essentials.balance.others
+    - chatex.mod
+    - factions.admin
+    - griefprevention.ignoreclaims
+    - griefprevention.adjustclaimblocks
+    - griefprevention.deathblow
+    - gianttrees.create
+    - gianttrees.grow
+    - lagg.clear
+    - lagg.check
+    - lagg.reload
+    - lagg.killmobs
+    - lagg.area
+    - lagg.chunk
+    - lagg.tpchunk
+    - lagg.help
+    inheritance:
+    - ULTRA
+    options:
+      suffix: '&8[&aPre_Mod&8]&e:'
+  Mod:
+    permissions:
+    - essentials.itemspawn.exempt
+    - essentials.setjail
+    - essentials.gamemode.others
+    - essentials.exp.give.others
+    - essentials.burn
+    - essentials.vanish.interact
+    - essentials.enderchest.modify
+    - essentials.god.others
+    inheritance:
+    - Pmod
+    options:
+      suffix: '&8[&bMod&8]&b:'
+  SMod:
+    permissions:
+    - worldedit.*
+    - factions.join.any
+    - griefprevention.restorenature
+    - lagg.unloadchunks
+    inheritance:
+    - Mod
+    options:
+      suffix: '&8[&2Senior_Mod&8]&a:'
+  Admin:
+    permissions:
+    - essentials.ban
+    - essentials.ban.exempt
+    - essentials.ban.offline
+    - essentials.banip
+    - essentials.tempban
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.unlimited
+    - permissions.*
+    - essentials.clearinventory.others
+    - worldedit.*
+    - factions.leader.any
+    - essentials.kill.exempt
+    - essentials.kill.force
+    - griefprevention.restorenatureaggressive
+    - griefprevention.adminclaims
+    - griefprevention.deleteclaims
+    - seeplayerinventory.admin
+    - multiverse.help
+    - mutliverse.core.info
+    - multiverse.core.list.worlds
+    - multiverse.import
+    - multiverse.reload
+    - multiverse.core.coord
+    - multiverse.teleport.self.w
+    - multiverse.teleport.other.w
+    - multiverse.teleport.self.p
+    - multiverse.teleport.other.p
+    - multiverse.core.list.who
+    - multiverse.core.spawn.self
+    - multiverse.core.spawn.other
+    - multiverse.core.confirm
+    - multiverse.core.purge
+    - multiverse.core.modify
+    - multiverse.core.gamerule.set
+    - multiverse.core.list.environments
+    - multiverse.core.silent
+    - worldguard.*
+    inheritance:
+    - Mod
+    options:
+      suffix: '&8[&4Admin&8]&c:'
+  HAdmin:
+    inheritance:
+    - Admin
+    options:
+      suffix: '&8[&aHead-Admin&8]&c'
+  Owner:
+    permissions:
+    - bukkit.*
+    - permissions.*
+    - safecreeper.*
+    - multiverse.core.create
+    - multiverse.core.unload
+    - multiverse.core.remove
+    - multiverse.core.delete
+    inheritance:
+    - Admin
+    options:
+      suffix: '&8[&5Owner&8]&d:'
+  MonkeyDick:
+    worlds:
+      '&c%message"':
+        options:
+          message-format: “player%suffix&r
+users:
+  e8d7f048-f2cf-4ddb-9b06-8898387968bf:
+    group:
+    - Owner
+    options:
+      name: Davetube24
+  b6c2f2b9-26a9-4ea5-963d-52daa1001dac:
+    group:
+    - Mod
+    options:
+      name: RipTide823
+  45d7f1fe-7590-46c7-bb2a-922ff5e8255e:
+    group:
+    - HAdmin
+    options:
+      name: legoboy892
+  edef543a-7bad-4962-b555-779ed0b6b1df:
+    group:
+    - Member
+    options:
+      name: BlueDragon8552
+  99ff9147-ba60-3b0a-97ab-0c16a7c12388:
+    group:
+    - Pmod
+    options:
+      name: BeastCrafter8
+  d1eaf5f2-93b3-37a1-aaee-f025659255af:
+    group:
+    - HAdmin
+    options:
+      name: legoboy892
+  281bfcb8-6e3b-33ea-84bc-401bb60b552d:
+    group:
+    - Admin
+    options:
+      name: shadowpunchash
+  736f0546-df12-3d8c-adb6-6ff2d80b782f:
+    group:
+    - HAdmin
+    options:
+      name: FuzzCat927
+  6712c754-2c41-3dc9-b673-9ab7c7c1f5e6:
+    group:
+    - SMod
+    options:
+      name: HairyToeMan
+  a019197c-6d0e-334f-9fb3-c0cc674b588a:
+    group:
+    - Admin
+    options:
+      name: youngshrek
+  9fe502dc-725f-31d4-91fe-f7dd12fa2dce:
+    group:
+    - HAdmin
+    options:
+      name: Nattorei927
+  729691ae-2a68-3050-ad96-5e132ea2b7a9:
+    group:
+    - Pmod
+    options:
+      name: Johntube30
+  49ab5a16-e31a-340e-bf50-a2302df0108c:
+    group:
+    - Pmod
+    options:
+      name: Aadesh2000
+  31653fa6-75d3-3975-af74-7c0741609b62:
+    group:
+    - HAdmin
+    options:
+      name: Naruninja13
+  zabbadee:
+    group:
+    - Admin
+  598e6b5a-2e77-3d8b-a99c-c0bd31b19f58:
+    group:
+    - Owner
+    options:
+      name: Davetube24
+  28faf89e-3892-30df-a454-a0fa7923f2c2:
+    group:
+    - Mod
+    options:
+      name: zebbadee
+  ebd907ff-858e-3ec2-9209-0b5d7d4637cb:
+    group:
+    - HAdmin
+    options:
+      name: Pokepickling
+  f58e3952-7ec6-3fd8-9b49-90fc7f00138d:
+    group:
+    - MVP
+    options:
+      name: Creeperclan
+  200abc08-6251-341d-a5cd-0c3fac4fb5c3:
+    group:
+    - Admin
+    options:
+      name: shanshan6279
+  461ce26c-12a3-3f78-a47e-c44194bb6127:
+    group:
+    - Pmod
+    options:
+      name: chess1154
+  3a49eba2-cfc5-3225-b6ba-b028a2ed79d2:
+    group:
+    - Admin
+    options:
+      name: gca4jc
+  eef26742-4809-3662-b633-40b1dd81855d:
+    group:
+    - Mod
+    options:
+      name: Phoenix1427
+  c75c6fd1-1ce3-3e26-9df4-4a92a8dae272:
+    group:
+    - Member
+    options:
+      name: soundwave1717
+  382dc4a6-53f7-3eb4-8834-f351f08de4b1:
+    group:
+    - MVP
+    options:
+      name: BlueDragon8552
+  335a0812-8d35-340f-84b3-d06ea2e0e4b4:
+    group:
+    - Admin
+    options:
+      name: killerhornet101
+  c651b9f2-d648-38b6-a1a5-4ecb0154f98b:
+    group:
+    - ULTRA
+    options:
+      name: Will_Death
+  3d7dfc7d-f151-3bc5-955e-07e67c32bdf1:
+    group:
+    - MVP
+    options:
+      name: Zombie4244
+  e625ff01-0a3a-31e0-9b25-ff338f2513b7:
+    group:
+    - VIP
+    options:
+      name: Manhunt
+  a9c4a7ed-b622-35a9-b56d-c81d215ca22b:
+    group:
+    - ULTRA
+    options:
+      name: kingjango893
+  c54c3de5-dfb0-3191-8d52-f176845c06c7:
+    group:
+    - MVP
+    options:
+      name: Butter2517
+  66aa7072-4c6d-3cab-852b-b13deb63de48:
+    group:
+    - PMod
+    options:
+      name: crazybrush
+  1d81078f-dd5d-32d3-8e73-97c12edc932a:
+    group:
+    - Admin
+    options:
+      name: fuzziwigs
+  5da672d1-2f71-34f2-bd2f-d4b6e70ea938:
+    group:
+    - Admin
+    options:
+      name: RipTide823
+  0e9b0980-fe95-3ce9-8627-1fcb54073b72:
+    group:
+    - Member
+    options:
+      name: DragonMaster566
+  b5ea46cb-96dc-3e1d-b294-3d1c9d6e9904:
+    group:
+    - VIP
+    options:
+      name: bloodybee72
+  group:
+    options:
+      youngshrek: MonkeyDick
+  93ff486b-b8d4-3b06-b9f1-3446a44daeb2:
+    options:
+      name: Red_Icycle
+  Bekahbob:
+    group:
+    - Member
+  7c65f67f-54c8-31bf-8e52-5e2249b9ccb6:
+    group:
+    - HAdmin
+    options:
+      name: TheFalc
+  1da5f479-7ef7-3b3c-9f1b-c6ebfad89515:
+    group:
+    - Mod
+    options:
+      name: TheMidnighter
+  33319e83-cfef-37e6-9db2-77db414eddec:
+    group:
+    - ULTRA
+    options:
+      name: 90_Liam
+  4354f9ad-0bad-316d-98e0-04004680a4a0:
+    group:
+    - SMod
+    options:
+      name: fluttershy_xx
+  c7921ed0-c653-3562-91d5-6fb15dfd1dca:
+    group:
+    - Pmod
+    options:
+      name: pingu20963
+  connorthewizard:
+    group:
+    - Member
+  d37b65bf-05ab-34b8-a9ac-79b5b4810012:
+    group:
+    - Member
+    options:
+      name: theconrobbo
+  94f741f8-9e6b-39b0-9ce2-4d8038b5e4f7:
+    group:
+    - Member
+    options:
+      name: Hyperplayzmc
+  starwarsgirl929:
+    group:
+    - Pmod
+  f762aa3f-baf5-3148-a29a-38c7c44a7156:
+    group:
+    - Pmod
+    options:
+      name: honey_poop
+  3b4a357d-85d0-3e76-a6b5-ca26ce9dd629:
+    group:
+    - SMod
+    options:
+      name: BanetheConquerer
+schema-version: 1

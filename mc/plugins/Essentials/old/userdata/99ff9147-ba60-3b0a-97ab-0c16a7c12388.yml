@@ -1,0 +1,21 @@
+lastAccountName: BeastCrafter8
+timestamps:
+  login: 1418443609015
+  logout: 1418443846877
+  lastteleport: 1418443807641
+ipAddress: 104.172.35.154
+lastlocation:
+  world: survival_nether
+  x: 78.40391055954089
+  y: 66.03827010966288
+  z: 165.56844489177644
+  yaw: 54.958374
+  pitch: 23.05037
+logoutlocation:
+  world: survival
+  x: 313.54458017779626
+  y: 75.13880480988185
+  z: 456.7811132207335
+  yaw: 338.08554
+  pitch: 19.670946
+money: '43.559999999999995'

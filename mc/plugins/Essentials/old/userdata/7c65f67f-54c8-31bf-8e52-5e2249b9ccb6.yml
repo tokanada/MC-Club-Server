@@ -1,0 +1,21 @@
+lastAccountName: TheFalc
+timestamps:
+  login: 1423163224730
+  logout: 1423163230119
+  lastteleport: 1422134909320
+ipAddress: 190.245.153.110
+lastlocation:
+  world: beast
+  x: 1094.757958289812
+  y: 55.604910061854476
+  z: 1594.3355841817483
+  yaw: 291.98682
+  pitch: 37.94995
+logoutlocation:
+  world: beast
+  x: 711.953804748443
+  y: 41.47990914994466
+  z: 1549.45711261749
+  yaw: 30.996883
+  pitch: 42.599895
+money: '195.87'

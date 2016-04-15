@@ -1,0 +1,20 @@
+lastAccountName: Freebop
+timestamps:
+  login: 1421499822982
+  logout: 1421499974082
+ipAddress: 95.44.4.202
+lastlocation:
+  world: survival
+  x: 279.5
+  y: 70.0
+  z: 302.5
+  yaw: 267.74973
+  pitch: 22.499868
+logoutlocation:
+  world: survival
+  x: 363.30000001192093
+  y: 70.0
+  z: 280.59893400713673
+  yaw: -304.80002
+  pitch: 31.650017
+money: '33.61'

@@ -1,0 +1,21 @@
+lastAccountName: hellokitty1017
+timestamps:
+  login: 1420090590185
+  logout: 1420090598685
+ipAddress: 122.59.115.106
+lastlocation:
+  world: survival
+  x: 279.5
+  y: 70.0
+  z: 302.5
+  yaw: 267.74973
+  pitch: 22.499868
+logoutlocation:
+  world: survival
+  x: 610.9403383933366
+  y: 66.0
+  z: 361.47601945161836
+  yaw: 107.24992
+  pitch: 26.100052
+afk: false
+money: '47.949999999999996'

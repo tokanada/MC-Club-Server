@@ -1,0 +1,22 @@
+lastAccountName: The_Chinola
+timestamps:
+  login: 1421639959465
+  lastteleport: 1421556081904
+  logout: 1421642878307
+ipAddress: 76.168.53.186
+lastlocation:
+  world: survival
+  x: 460.762735598806
+  y: 74.0
+  z: 234.6343316158352
+  yaw: 205.69739
+  pitch: 14.520421
+afk: false
+logoutlocation:
+  world: survival
+  x: 430.6816376105186
+  y: 76.0
+  z: 241.408980749293
+  yaw: -292.24023
+  pitch: 13.242777
+money: '799.7300000000015'

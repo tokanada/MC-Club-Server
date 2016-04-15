@@ -1,0 +1,28 @@
+lastAccountName: DiamondWiz42
+timestamps:
+  login: 1423350307675
+  logout: 1423352240995
+  lastteleport: 1421960695340
+ipAddress: 166.148.172.32
+lastlocation:
+  world: survival
+  x: -498.5
+  y: 66.0
+  z: -118.5
+  yaw: -254.09927
+  pitch: 34.95005
+logoutlocation:
+  world: survival
+  x: -497.06797609855613
+  y: 67.0
+  z: -117.31339277067849
+  yaw: -194.25757
+  pitch: 25.350128
+money: '1999.4799999999987'
+afk: false
+nickname: Caeden
+powertools:
+  '352':
+  - / paste
+  '262':
+  - /paste

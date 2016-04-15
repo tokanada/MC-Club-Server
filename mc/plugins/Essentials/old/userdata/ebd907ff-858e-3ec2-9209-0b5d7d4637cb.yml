@@ -1,0 +1,26 @@
+lastAccountName: Pokepickling
+timestamps:
+  login: 1422144343309
+  logout: 1422146436123
+  kits:
+    dtools: 1417906255304
+  lastteleport: 1422145408432
+ipAddress: 99.127.248.56
+lastlocation:
+  world: survival
+  x: 282.69999998807907
+  y: 55.0
+  z: 328.87135080745486
+  yaw: 268.19974
+  pitch: 22.499868
+logoutlocation:
+  world: survival
+  x: 282.69999998807907
+  y: 55.0
+  z: 328.87135080745486
+  yaw: 268.19974
+  pitch: 22.499868
+afk: false
+mail:
+- §6[§rDavetube24§6] §rdo /f join mysticl
+money: '433.59000000000026'

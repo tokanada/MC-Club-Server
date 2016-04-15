@@ -1,0 +1,30 @@
+lastAccountName: skattterdude
+timestamps:
+  login: 1422746931201
+  logout: 1422746973987
+  lastteleport: 1421703308222
+ipAddress: 68.7.189.120
+lastlocation:
+  world: survival
+  x: 441.30000001192093
+  y: 75.0
+  z: 217.06912222704293
+  yaw: 265.6714
+  pitch: 32.39999
+logoutlocation:
+  world: survival
+  x: 162.61076510343554
+  y: 63.0
+  z: 501.4026614098409
+  yaw: 282.53516
+  pitch: 26.699999
+afk: false
+homes:
+  home:
+    world: survival
+    x: 161.0435491016883
+    y: 65.0
+    z: 506.91652405433865
+    yaw: 160.58496
+    pitch: 21.900005
+money: '213.06000000000003'

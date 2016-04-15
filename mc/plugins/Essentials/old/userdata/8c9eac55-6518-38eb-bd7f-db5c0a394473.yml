@@ -1,0 +1,22 @@
+lastAccountName: Creeperhunter
+timestamps:
+  login: 1422402267580
+  logout: 1422402305724
+  lastteleport: 1422059524418
+ipAddress: 23.242.138.198
+lastlocation:
+  world: survival
+  x: 328.97794842211124
+  y: 70.0
+  z: 273.5639248234401
+  yaw: 189.5987
+  pitch: 27.299995
+logoutlocation:
+  world: beast
+  x: 882.7894542080135
+  y: 28.230173512738705
+  z: 1670.0700141157577
+  yaw: 239.31793
+  pitch: 25.799498
+afk: false
+money: '2156.53'

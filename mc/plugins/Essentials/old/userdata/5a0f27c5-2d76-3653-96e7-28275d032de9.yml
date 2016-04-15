@@ -1,0 +1,67 @@
+lastAccountName: DreamingDinosaur
+timestamps:
+  login: 1423860909703
+  logout: 1423861907771
+  lastteleport: 1423861561851
+  lastheal: 1421855659864
+ipAddress: 192.168.1.69
+lastlocation:
+  world: survival
+  x: 296.8839534686109
+  y: 66.0
+  z: 233.70224660645445
+  yaw: 171.69518
+  pitch: -0.12875007
+logoutlocation:
+  world: survival
+  x: 282.2952233366556
+  y: 70.0
+  z: 302.138641245352
+  yaw: -79.27728
+  pitch: 24.776337
+money: '3302.770000000004'
+homes:
+  home:
+    world: survival
+    x: 461.62965334022846
+    y: 170.0
+    z: 209.41279305184878
+    yaw: 0.3153267
+    pitch: 53.72766
+  lol:
+    world: survival
+    x: 1420.292008561007
+    y: 82.5
+    z: 788.1889258043963
+    yaw: 4.4504657
+    pitch: -6.837196
+  lol2:
+    world: survival
+    x: 1420.1505962177591
+    y: 81.0
+    z: 792.6185357845001
+    yaw: 4.4504657
+    pitch: -6.837196
+  enchant:
+    world: survival
+    x: 1420.5041890794405
+    y: 83.0
+    z: 774.9006800679653
+    yaw: 179.6979
+    pitch: -0.847274
+  util:
+    world: survival
+    x: 1417.6437514659779
+    y: 83.0
+    z: 820.7094413459076
+    yaw: 180.54724
+    pitch: 0.81659794
+  icy_:
+    world: survival
+    x: -14777.246255876773
+    y: 71.0
+    z: 2438.9475549536764
+    yaw: 57.148743
+    pitch: 20.450163
+afk: false
+nickname: §2Super§1Derp

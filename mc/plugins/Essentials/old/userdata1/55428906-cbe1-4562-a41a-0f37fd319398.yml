@@ -1,0 +1,20 @@
+lastAccountName: fuzziwigs
+timestamps:
+  login: 1423948175885
+  logout: 1423947879323
+ipAddress: 98.223.221.44
+lastlocation:
+  world: poke
+  x: 206.24868366901953
+  y: 75.23152379758702
+  z: 89.60041410337622
+  yaw: -86.98285
+  pitch: 39.749954
+logoutlocation:
+  world: poke
+  x: 319.7194994334131
+  y: 73.00133597911214
+  z: 21.701982826925818
+  yaw: -84.19824
+  pitch: 35.550026
+godmode: true

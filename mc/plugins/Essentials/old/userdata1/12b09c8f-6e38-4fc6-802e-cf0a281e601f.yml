@@ -1,0 +1,30 @@
+lastAccountName: Mr_Kalebas
+timestamps:
+  login: 1425931342077
+  lastteleport: 1425077095517
+  logout: 1425931983627
+ipAddress: 184.89.5.155
+homes:
+  home:
+    world: survival
+    x: 1390.812042271261
+    y: 63.0
+    z: 340.78369296320795
+    yaw: 270.0703
+    pitch: 16.50016
+lastlocation:
+  world: survival
+  x: 1438.147376335549
+  y: 71.0
+  z: 249.67051969535004
+  yaw: 38.31421
+  pitch: 30.450193
+logoutlocation:
+  world: survival
+  x: 1383.1710689288616
+  y: 64.0
+  z: 344.56995395919375
+  yaw: 263.78537
+  pitch: -28.649788
+afk: false
+nickname: §2Mr§3§lKalebas

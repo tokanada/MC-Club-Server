@@ -1,0 +1,22 @@
+lastAccountName: chess1154
+timestamps:
+  login: 1422144451723
+  lastteleport: 1422145802262
+  logout: 1422145891009
+ipAddress: 98.223.221.44
+lastlocation:
+  world: survival
+  x: 279.37377187891315
+  y: 70.0
+  z: 302.96893998659795
+  yaw: 267.89975
+  pitch: 22.799868
+godmode: true
+logoutlocation:
+  world: survival
+  x: 374.45956158103337
+  y: 70.0
+  z: 277.13993459830834
+  yaw: -101.55036
+  pitch: 19.799843
+money: '69.54999999999998'

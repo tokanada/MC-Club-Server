@@ -1,0 +1,31 @@
+lastAccountName: honey_poop
+timestamps:
+  login: 1422674819193
+  lastteleport: 1422677677160
+  logout: 1422678759491
+ipAddress: 67.247.94.23
+lastlocation:
+  world: world
+  x: -153.5
+  y: 75.0
+  z: 243.5
+  yaw: 171.57187
+  pitch: 15.599978
+homes:
+  home:
+    world: survival
+    x: 1464.8329856427647
+    y: 69.0
+    z: 79.18910918636385
+    yaw: 111.30936
+    pitch: 39.899696
+logoutlocation:
+  world: world
+  x: -139.40596121631214
+  y: 82.50941098273577
+  z: 246.2806464053911
+  yaw: 58.060303
+  pitch: 30.299986
+money: '673.5300000000004'
+nickname: §6Axton
+godmode: false

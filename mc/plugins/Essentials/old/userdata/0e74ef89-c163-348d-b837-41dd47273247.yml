@@ -1,0 +1,102 @@
+lastAccountName: GamingJummFTW
+timestamps:
+  login: 1421720533793
+  logout: 1421720538267
+  lastheal: 1419971709334
+  lastteleport: 1421674215306
+ipAddress: 76.95.186.199
+lastlocation:
+  world: survival
+  x: 287.22705411126094
+  y: 71.0
+  z: 299.91581801625233
+  yaw: 279.89972
+  pitch: 43.499874
+logoutlocation:
+  world: survival
+  x: 354.30000001192093
+  y: 62.0
+  z: -280.57499998807907
+  yaw: -53.847515
+  pitch: 70.950035
+homes:
+  home:
+    world: survival
+    x: 359.31353819512134
+    y: 62.0
+    z: -265.33136582273
+    yaw: 355.05237
+    pitch: 28.650023
+  nether:
+    world: survival_nether
+    x: 32.268576349576634
+    y: 88.0
+    z: 34.443728665947496
+    yaw: -178.12897
+    pitch: 34.500023
+  umm_lol_:
+    world: flat
+    x: -72.53226132192442
+    y: 7.0
+    z: 1441.5941918723156
+    yaw: -177.15723
+    pitch: 45.149963
+  cave:
+    world: survival
+    x: 384.4473376111122
+    y: 38.0
+    z: -351.30000001192093
+    yaw: 26.699722
+    pitch: 58.663975
+  restaraunt:
+    world: survival
+    x: 389.7537158007111
+    y: 68.0
+    z: -329.35500612532974
+    yaw: -271.49667
+    pitch: 54.90002
+  pit:
+    world: survival
+    x: 383.69999998807907
+    y: 19.0
+    z: -351.69999998807907
+    yaw: 256.8474
+    pitch: 58.296635
+  diamonds:
+    world: survival
+    x: 366.6344394209991
+    y: 12.0
+    z: -312.70860390446836
+    yaw: 78.347595
+    pitch: 61.296635
+  raid:
+    world: survival
+    x: 1426.7457187163204
+    y: 77.0
+    z: 827.3000000119209
+    yaw: -235.51346
+    pitch: 18.59986
+  raid1:
+    world: survival
+    x: 1455.6230516004873
+    y: 76.0
+    z: 852.3000000119209
+    yaw: -250.06346
+    pitch: 49.049873
+  enchant:
+    world: survival
+    x: 1420.304635913306
+    y: 83.0
+    z: 777.8146952768898
+    yaw: 176.23544
+    pitch: 13.050007
+  moop517_s_base:
+    world: survival
+    x: 1442.5105191192524
+    y: 103.0
+    z: 780.3000000119209
+    yaw: -4.9645996
+    pitch: 69.44998
+nickname: §3HinkleBeaver
+afk: false
+money: '12.750000000000098'

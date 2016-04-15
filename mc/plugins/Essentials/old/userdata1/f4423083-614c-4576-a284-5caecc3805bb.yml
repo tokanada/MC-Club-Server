@@ -1,0 +1,29 @@
+lastAccountName: aidangreen2
+timestamps:
+  login: 1426119553449
+  logout: 1426121977433
+  lastteleport: 1426121969932
+ipAddress: 50.151.75.89
+lastlocation:
+  world: survival
+  x: 497.00526792485573
+  y: 10.0
+  z: 228.63747550050613
+  yaw: 82.281075
+  pitch: 26.33866
+logoutlocation:
+  world: survival
+  x: 516.3132782746002
+  y: 5.0
+  z: 214.07869685444348
+  yaw: 138.98532
+  pitch: 8.815904
+afk: false
+homes:
+  home:
+    world: survival
+    x: 516.0566993519898
+    y: 5.0
+    z: 212.0344624824242
+    yaw: 282.3242
+    pitch: 17.196377

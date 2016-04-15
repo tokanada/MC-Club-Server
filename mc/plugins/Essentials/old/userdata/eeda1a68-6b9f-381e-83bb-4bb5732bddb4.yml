@@ -1,0 +1,28 @@
+lastAccountName: cruello12
+timestamps:
+  login: 1423159597874
+  logout: 1423160302441
+  lastteleport: 1423159612253
+ipAddress: 173.175.179.80
+lastlocation:
+  world: survival
+  x: -789.6999999880791
+  y: 46.0
+  z: 1295.699999988079
+  yaw: 256.69998
+  pitch: 89.80867
+logoutlocation:
+  world: survival
+  x: -929.3000000119209
+  y: 11.0
+  z: 1275.0275645992624
+  yaw: 359.20837
+  pitch: 5.691475
+homes:
+  home:
+    world: survival
+    x: -758.9567973995061
+    y: 64.0
+    z: 1283.6453390197612
+    yaw: 171.17459
+    pitch: 6.7704215

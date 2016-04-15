@@ -1,0 +1,21 @@
+lastAccountName: FuryFudge
+timestamps:
+  login: 1418540734171
+  lastteleport: 1418540939232
+  logout: 1418540971378
+ipAddress: 202.150.124.34
+lastlocation:
+  world: survival
+  x: 605.8021729852074
+  y: 76.0
+  z: 103.70370602296991
+  yaw: -302.58087
+  pitch: 9.535928
+logoutlocation:
+  world: survival
+  x: 279.82750313357303
+  y: 75.0
+  z: 302.7129860840404
+  yaw: -92.413
+  pitch: 6.5088835
+money: '35.17'

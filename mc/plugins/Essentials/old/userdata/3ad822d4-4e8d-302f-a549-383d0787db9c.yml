@@ -1,0 +1,21 @@
+lastAccountName: SharpTooth9
+timestamps:
+  login: 1420758905022
+  lastteleport: 1420758134513
+  logout: 1420758933126
+ipAddress: 70.194.129.210
+lastlocation:
+  world: survival
+  x: 295.1864212842793
+  y: 70.0
+  z: 303.7523377207659
+  yaw: 279.1496
+  pitch: 25.949875
+logoutlocation:
+  world: survival
+  x: 304.0294801938713
+  y: 66.0
+  z: 502.8297737235554
+  yaw: 359.99966
+  pitch: 37.19987
+money: '35.349999999999994'

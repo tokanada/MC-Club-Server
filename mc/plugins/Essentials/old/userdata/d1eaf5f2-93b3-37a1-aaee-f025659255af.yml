@@ -1,0 +1,61 @@
+lastAccountName: legoboy892
+timestamps:
+  login: 1421704931467
+  logout: 1421705025118
+  lastteleport: 1421437871746
+ipAddress: 98.220.144.29
+lastlocation:
+  world: survival
+  x: 13271.723458424778
+  y: 11.0
+  z: 37291.30000001192
+  yaw: -152.68188
+  pitch: 25.500053
+logoutlocation:
+  world: survival
+  x: 13352.300000011921
+  y: 76.0
+  z: 37154.41189698464
+  yaw: 132.68016
+  pitch: 38.09995
+godmode: true
+money: '1028.5799999999995'
+homes:
+  watertemple:
+    world: survival
+    x: 4838.674599309974
+    y: 44.0
+    z: 9450.309096865216
+    yaw: -323.07227
+    pitch: 21.300007
+  watertemple2:
+    world: survival
+    x: 8520.221600110415
+    y: 56.0
+    z: 14121.508364942823
+    yaw: -2.2331543
+    pitch: 15.000006
+  icespike:
+    world: survival
+    x: 9787.781715509509
+    y: 72.0
+    z: 19195.409856295493
+    yaw: -181.66602
+    pitch: 19.050013
+  acaciabiome:
+    world: survival
+    x: 13221.774137578235
+    y: 194.0
+    z: 37143.56728163338
+    yaw: -277.6953
+    pitch: 46.19988
+  ground:
+    world: survival
+    x: 13239.595558877127
+    y: 64.0
+    z: 37150.95108640443
+    yaw: -241.5487
+    pitch: -10.2000065
+powertools:
+  '58':
+  - lightning

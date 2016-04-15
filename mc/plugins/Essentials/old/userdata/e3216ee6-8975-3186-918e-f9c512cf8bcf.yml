@@ -1,0 +1,24 @@
+lastAccountName: carsmatt
+timestamps:
+  login: 1417909058856
+  logout: 1417909805283
+  lastteleport: 1417909095064
+  lastheal: 1417909748510
+ipAddress: 24.252.78.206
+lastlocation:
+  world: survival
+  x: 300.69999998807907
+  y: 65.0
+  z: 305.8663025228489
+  yaw: 107.54972
+  pitch: 82.19987
+logoutlocation:
+  world: survival
+  x: 366.30000001192093
+  y: 70.0
+  z: 279.54498889938833
+  yaw: 348.5998
+  pitch: 11.099996
+mail:
+- §6[§rDavetube24§6] §rdo /f join mysticl
+money: '289.3800000000001'

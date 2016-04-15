@@ -1,0 +1,33 @@
+lastAccountName: sonic_jb
+timestamps:
+  login: 1418238037956
+  lastteleport: 1418239624161
+  logout: 1418240158890
+  lastheal: 1418239844767
+ipAddress: 176.251.206.60
+lastlocation:
+  world: survival
+  x: -712.5
+  y: 63.0
+  z: 365.5
+  yaw: 91.199745
+  pitch: -24.900114
+logoutlocation:
+  world: survival
+  x: -904.3000000119209
+  y: 39.0
+  z: 328.69999998807907
+  yaw: -227.39716
+  pitch: 19.049942
+nickname: §b§lsonic
+money: '119.53999999999998'
+homes:
+  home:
+    world: survival
+    x: -930.1014839959812
+    y: 37.0
+    z: 300.9271952316963
+    yaw: -62.700256
+    pitch: 4.499884
+mail:
+- §6[§rServer§6] §rwtf was that?

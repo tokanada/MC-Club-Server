@@ -1,0 +1,21 @@
+lastAccountName: HairyToeMan
+timestamps:
+  login: 1422823432162
+  logout: 1422823491923
+  lastteleport: 1422823481043
+ipAddress: 50.48.138.244
+lastlocation:
+  world: survival
+  x: 588.5
+  y: 83.35611234358768
+  z: 328.5
+  yaw: 85.57259
+  pitch: 1.6242112
+logoutlocation:
+  world: survival
+  x: 351.6962891872429
+  y: 65.0
+  z: 302.24835611859453
+  yaw: 268.19974
+  pitch: 22.499868
+money: '539.7199999999998'

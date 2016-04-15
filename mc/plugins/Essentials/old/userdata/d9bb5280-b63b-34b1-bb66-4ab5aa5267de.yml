@@ -1,0 +1,21 @@
+lastAccountName: Meowcat285
+timestamps:
+  login: 1423663427362
+  logout: 1423663485070
+  lastteleport: 1423410064489
+ipAddress: 192.168.1.69
+lastlocation:
+  world: survival
+  x: 291.6314064073348
+  y: 66.0
+  z: 304.1194854685132
+  yaw: 279.14987
+  pitch: 10.6498575
+logoutlocation:
+  world: survival
+  x: 301.5927972493514
+  y: 65.0
+  z: 307.0426894044386
+  yaw: 76.79933
+  pitch: 7.35
+money: '31.77'

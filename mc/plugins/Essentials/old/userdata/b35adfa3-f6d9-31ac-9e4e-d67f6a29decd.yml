@@ -1,0 +1,31 @@
+lastAccountName: xDAmyStampyFanDx
+timestamps:
+  login: 1418691648814
+  lastteleport: 1418693062615
+  logout: 1418693290168
+  lastheal: 1418095043840
+ipAddress: 174.61.29.63
+lastlocation:
+  world: survival
+  x: 298.00296121071926
+  y: 63.0
+  z: 306.2981910712284
+  yaw: 54.449768
+  pitch: 79.34984
+logoutlocation:
+  world: survival
+  x: 284.3835026858512
+  y: 70.0
+  z: 302.8167043493277
+  yaw: 262.4993
+  pitch: -0.75000244
+homes:
+  home:
+    world: flat
+    x: -9.542119543381448
+    y: 16.498541828274547
+    z: 0.4894395794332156
+    yaw: 96.58789
+    pitch: 85.2
+afk: false
+money: '203.28'

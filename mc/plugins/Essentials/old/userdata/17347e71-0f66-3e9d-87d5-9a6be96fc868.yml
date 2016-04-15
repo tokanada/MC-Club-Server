@@ -1,0 +1,28 @@
+lastAccountName: Kidders123
+timestamps:
+  login: 1423438527667
+  logout: 1423438802369
+ipAddress: 205.206.182.189
+lastlocation:
+  world: survival
+  x: 279.5
+  y: 70.0
+  z: 302.5
+  yaw: 267.74973
+  pitch: 22.499868
+homes:
+  home:
+    world: survival
+    x: 467.2432161613823
+    y: 72.0
+    z: 258.7708572636519
+    yaw: 312.1497
+    pitch: 31.3499
+logoutlocation:
+  world: survival
+  x: 468.79145460592883
+  y: 72.0
+  z: 260.13115914676695
+  yaw: 330.4307
+  pitch: 23.549974
+afk: false

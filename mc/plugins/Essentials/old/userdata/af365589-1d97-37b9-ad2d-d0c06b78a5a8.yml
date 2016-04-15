@@ -1,0 +1,31 @@
+lastAccountName: TheDrakOre
+timestamps:
+  login: 1423860827563
+  lastteleport: 1423861767746
+  logout: 1423861910271
+ipAddress: 192.168.1.69
+lastlocation:
+  world: survival
+  x: 297.2787095964906
+  y: 63.0
+  z: 302.8884047854331
+  yaw: -71.550354
+  pitch: 19.349873
+nickname: §1§lTheDrakOre
+afk: false
+money: '81.81999999999998'
+logoutlocation:
+  world: survival
+  x: 1406.0612995014553
+  y: 77.0
+  z: 824.8973905858145
+  yaw: 137.69785
+  pitch: 12.502733
+homes:
+  home:
+    world: survival
+    x: 1420.5
+    y: 83.0
+    z: 774.5
+    yaw: 179.6979
+    pitch: -0.847274

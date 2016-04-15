@@ -1,0 +1,38 @@
+lastAccountName: QTePi
+timestamps:
+  login: 1423359915936
+  logout: 1423360133956
+  lastteleport: 1423324244896
+  kits:
+    tools: 1422405343209
+    color: 1422405307752
+    firework: 1422405351672
+    dtools: 1423360123357
+    notch: 1422405226338
+ipAddress: 71.52.218.225
+lastlocation:
+  world: survival
+  x: 49105.43664861167
+  y: 121.2257710835754
+  z: 11174.92517035019
+  yaw: -190.54823
+  pitch: 51.82813
+logoutlocation:
+  world: survival
+  x: 385.2752162390432
+  y: 91.8950022154716
+  z: 263.44417425196394
+  yaw: 49.18857
+  pitch: 37.47428
+homes:
+  home:
+    world: survival
+    x: 591.8322589605273
+    y: 71.0
+    z: 209.34486314743006
+    yaw: -116.990234
+    pitch: 21.227533
+afk: false
+godmode: false
+money: '1151.5099999999982'
+nickname: §kT§bQTePi§4§kT

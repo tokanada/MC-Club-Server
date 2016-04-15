@@ -1,0 +1,30 @@
+lastAccountName: QTePi
+timestamps:
+  login: 1425591724640
+  lastteleport: 1424221779086
+  logout: 1425591726491
+ipAddress: 71.52.218.235
+lastlocation:
+  world: survival
+  x: 2.000007611260972E7
+  y: 93.0
+  z: 2.0000000268345676E7
+  yaw: 268.29657
+  pitch: 51.1972
+homes:
+  home:
+    world: survival
+    x: 593.6837257366403
+    y: 72.0
+    z: 202.44684524545787
+    yaw: -31.13263
+    pitch: 10.319421
+logoutlocation:
+  world: survival
+  x: 3.00000005E7
+  y: 93.0
+  z: 3.00000005E7
+  yaw: 268.29657
+  pitch: 51.1972
+nickname: §kQ§aQTePi§4§kT
+godmode: true

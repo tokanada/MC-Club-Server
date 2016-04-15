@@ -1,0 +1,38 @@
+{
+  "aliasesBook": [
+    "book",
+    "books"
+  ],
+  "usingNewPlayerCommands": true,
+  "newPlayerCommands": [
+    "/book give {p} ensure all"
+  ],
+  "usingNewPlayerCommandsDelayTicks": true,
+  "newPlayerCommandsDelayTicks": 5,
+  "permToCopyCost": {
+    "massivebooks.copycost.free": 0.0,
+    "massivebooks.copycost.0": 0.0,
+    "massivebooks.copycost.0.01": 0.01,
+    "massivebooks.copycost.0.02": 0.02,
+    "massivebooks.copycost.0.03": 0.03,
+    "massivebooks.copycost.0.1": 0.1,
+    "massivebooks.copycost.0.2": 0.2,
+    "massivebooks.copycost.0.3": 0.3,
+    "massivebooks.copycost.1": 1.0,
+    "massivebooks.copycost.2": 2.0,
+    "massivebooks.copycost.3": 3.0,
+    "massivebooks.copycost.10": 10.0,
+    "massivebooks.copycost.20": 20.0,
+    "massivebooks.copycost.30": 30.0,
+    "massivebooks.copycost.default": 0.0
+  },
+  "autoupdatingServerbooks": true,
+  "autoupdatingDisplayNames": true,
+  "usingAuthorDisplayName": false,
+  "itemFrameLoadIfSneakTrue": false,
+  "itemFrameLoadIfSneakFalse": true,
+  "itemFrameDisplaynameIfSneakTrue": false,
+  "itemFrameDisplaynameIfSneakFalse": true,
+  "itemFrameRotateIfSneakTrue": true,
+  "itemFrameRotateIfSneakFalse": true
+}

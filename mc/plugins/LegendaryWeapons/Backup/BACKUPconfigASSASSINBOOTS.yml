@@ -1,0 +1,265 @@
+# --------------------
+#  Weapon Definitions
+# --------------------
+# key for your weapon (doesn't matter, just make it unique):
+#     weapon-name: name of your weapon
+#     description:
+#     - details for the weapon
+#     - can put multiple lines
+#     mob-source: the mob that drops the weapon
+#     drop-chance: change of the item dropping (out of 100)
+#     item-name: the in-game item
+#     enchantments:
+#     - enchantment1,level
+#     - enchantment2,level
+# --------------------------------------------------------------------------------------
+# Mob names are based off of the bukkit api
+#    Most are normal (name with no spaces or punctuation) with the following exceptions:
+#        PigZombie = ZombiePigman
+#        MushroomCow = Mooshroom
+#        Snowman = SnowGolem
+# --------------------------------------------------------------------------------------
+# You can use colors in the weapon-name and description. The codes are as follows:
+#    c0 = black
+#    c1 = dark blue
+#    c2 = dark green
+#    c3 = dark aqua
+#    c4 = dark red
+#    c5 = dark purple
+#    c6 = gold
+#    c7 = gray
+#    c8 = dark gray
+#    c9 = blue
+#    c10 = green
+#    c11 = aqua
+#    c12 = red
+#    c13 = light purple
+#    c14 = yellow
+#    c15 = white
+# ----------------------------------------------------------------
+# Enchantments you can use are the following (not case-sensitive):
+#     ARROW_DAMAGE             (Power)
+#     ARROW_FIRE               (Flame)
+#     ARROW_INFINITE           (Infinity)
+#     ARROW_KNOCKBACK          (Punch)
+#     DAMAGE_ALL               (Sharpness)
+#     DAMAGE_ARTHROPODS        (Bane of Arthropods)
+#     DAMAGE_UNDEAD            (Smite)
+#     DURABILITY               (Unbreaking)
+#     FIRE_ASPECT              (Fire Aspect)
+#     KNOCKBACK                (Knockback)
+#     LOOT_BONUS_MOBS          (Looting)
+#     PROTECTION_ENVIRONMENTAL (Protection)
+#     PROTECTION_FIRE          (Fire Protection)
+#     PROTECTION_FALL          (Feather Falling)
+#     PROTECTION_EXPLOSIONS    (Blast Protection
+#     PROTECTION_PROJECTILE    (Projectile Protection)
+#     OXYGEN                   (Respiration)
+#     WATER_WORKER             (Aqua Affinity)
+#     THORNS                   (Thorns)
+#     DIG_SPEED                (Efficiency)
+#     SILK_TOUCH               (Silk Touch)
+#     LOOT_BONUS_BLOCKS        (Fortune)
+# --------------------------------------------------
+# You can also use any custom enchantment names that
+# any plugins have added to EnchantmentAPI
+# ---------------------------------------------
+# Maximum enchantment level is 10, Minimum is 1
+# ------------------------------------------------------
+# Options (found at the bottom):
+#    creative-kills-count - Whether or not kills in creative mode count for drops
+#    monster-spawners-count - Whether or not to count kills on monsters from spawners
+#    egg-spawns-counts - Whether or not spawns from monster eggs count
+weapon1:
+  weapon-name: c13Twily's Bow
+  description:
+  - c5Don't Make it
+  - c5Angry......
+  mob-source:
+  - skeleton
+  - witherskeleton
+  drop-chance: 2
+  item-name: bow
+  enchantments:
+  - durability,5
+  - knockback,3
+  - arrow_fire,3
+  - arrow_damage,5
+  - arrow_infinite,1
+  - arrow_knockback,3
+  - loot_bonus_mobs,1
+weapon2:
+  weapon-name: c2Troll Bow
+  description:
+  - c10When you want to just
+  - c10laugh as something tries
+  - c10so hard to get near you
+  mob-source:
+  - skeleton
+  - witherskeleton
+  drop-chance: 3
+  item-name: bow
+  enchantments:
+  - arrow_knockback,10
+  - arrow_infinite,1
+weapon3:
+  weapon-name: c6Assassin's Sword
+  description:
+  - c7Something was there...
+  - c7Then it was not...
+  mob-source:
+  - creeper
+  - witherskeleton
+  drop-chance: 0.5
+  item-name: iron_sword
+  enchantments:
+  - durability,5
+  - damage_all,10
+  - damage_arthropods,2
+  - damage_undead,1
+weapon4:
+  weapon-name: c1Forbidden Pickaxe
+  description:
+  - c7Shhhhh...
+  - c7Don't Show it to anyone
+  mob-source:
+  - zombie
+  - pigzombie
+  - spider
+  - bat
+  drop-chance: 1
+  item-name: iron_pickaxe
+  enchantments:
+  - durability,5
+  - dig_speed,4
+  - loot_bonus_blocks,1
+weapon5:
+  weapon-name: c10Dirty Shovel
+  description:
+  - c10Always Wear Gloves
+  mob-source:
+  - zombie
+  drop-chance: 2
+  item-name: stone_spade
+  enchantments:
+  - durability,5
+  - dig_speed,4
+weapon6:
+  weapon-name: c6Gambler Blade
+  description:
+  - c6Used to get treasure from
+  - c6where you never thought it
+  - c6could be
+  mob-source:
+  - zombie
+  drop-chance: 1
+  item-name: gold_sword
+  enchantments:
+  - loot_bonus_mobs,7
+  - knockback,5
+  - fire_aspect,7
+weapon7:
+  weapon-name: c11Mysterious Wool
+  description:
+  - c11The sheep this came from
+  - c11must have ate something
+  - c11quite extraordinary
+  mob-source:
+  - sheep
+  drop-chance: 1
+  item-name: wool
+  enchantments:
+  - knockback,10
+  - durability,10
+weapon8:
+  weapon-name: c4FIST O POWER
+  description:
+  - c4NEW AND IMPROVED
+  mob-source:
+  - zombie
+  drop-chance: 0.5
+  item-name: stone_button
+  enchantments:
+  - fire_aspect,6
+  - damage_all,6
+  - damage_undead,6
+  - damage_arthropods,6
+  - knockback,2
+  - silk_touch,6
+  - loot_bonus_mobs,6
+weapon9:
+  weapon-name: c12POKE Stick
+  description:
+  - c12Prickly
+  - c12Oblong-ish
+  - c12Karate
+  - c12Engineered
+  - c12Stick
+  mob-source:
+  - creeper
+  drop-chance: 1
+  item-name: stick
+  enchantments:
+  - fire_aspect,6
+  - damage_all,6
+  - damage_undead,6
+  - damage_arthropods,6
+  - knockback,2
+weapon10:
+  weapon-name: c11Diving Helmet
+  description:
+  - c11And we thought squids
+  - c11could breathe underwater...
+  mob-source:
+  - squid
+  drop-chance: 3
+  item-name: iron_helmet
+  enchantments:
+  - oxygen,10
+  - durability,10
+  - water_worker,10
+weapon11:
+  weapon-name: c2Lumberjack's BFF
+  description:
+  - c2Take Good Care of It....
+  - c2.........It was his only friend
+  mob-source:
+  - zombie
+  - witherskeleton
+  drop-chance: 3
+  item-name: iron_axe
+  enchantments:
+  - dig_speed,4
+  - durability,4
+weapon12:
+  weapon-name: c6BattleAxe
+  description:
+  - c6This Is...
+  - c6SPARTA!!!!!!!!!!!!
+  mob-source:
+  - zombie
+  drop-chance: 3
+  item-name: iron_axe
+  enchantments:
+  - damage_all,4
+  - damage_arthropods,4
+  - durability,4
+weapon13:
+  weapon-name: c6Assassin Boots
+  description:
+  - c6Its All In the Boots
+  mob-source:
+  - zombie
+  - skeleton
+  - creeper
+  drop-chance: 2
+  item-name: golden_boots
+  enchantments:
+  - protection_fall,10
+  - protection_fire,2
+  - protection_explosions,1
+  - durability,1
+Options:
+  creative-kills-count: false
+  mob-spawners-count: false
+  egg-spawns-count: false

@@ -1,0 +1,34 @@
+lastAccountName: youngshrek
+timestamps:
+  login: 1423440639746
+  lastteleport: 1423441883744
+  logout: 1423442313375
+  kits:
+    notch: 1420912745847
+ipAddress: 50.48.138.244
+lastlocation:
+  world: survival
+  x: 279.37377187891315
+  y: 70.0
+  z: 302.96893998659795
+  yaw: 268.19974
+  pitch: 22.499868
+nickname: Shrek
+logoutlocation:
+  world: survival
+  x: 610.6999999880791
+  y: 59.28173959967425
+  z: 673.6999999880791
+  yaw: 239.05281
+  pitch: 13.350182
+homes:
+  flat:
+    world: flat
+    x: -13.642712513288863
+    y: 4.0
+    z: -11.451946744333782
+    yaw: -313.05878
+    pitch: 17.100073
+money: '1191.699999999999'
+godmode: false
+afk: false

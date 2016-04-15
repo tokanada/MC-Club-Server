@@ -1,0 +1,110 @@
+lastAccountName: Moop515
+timestamps:
+  login: 1423780769073
+  logout: 1423780848483
+  lastteleport: 1423235893837
+  lastheal: 1421438622655
+ipAddress: 192.168.1.69
+lastlocation:
+  world: survival
+  x: 370.69999998807907
+  y: 69.0
+  z: 270.59330582668474
+  yaw: 307.49976
+  pitch: 14.249973
+logoutlocation:
+  world: survival
+  x: 1443.925000011921
+  y: 76.0
+  z: 840.4405944343691
+  yaw: 37.48728
+  pitch: 10.500049
+money: '4505.369999999993'
+afk: false
+homes:
+  temple:
+    world: survival
+    x: 4856.3290821053015
+    y: 40.0
+    z: 9435.699999988079
+    yaw: -40.213745
+    pitch: 0.7499784
+  portal:
+    world: survival
+    x: 549.0770654777269
+    y: 28.0
+    z: -548.2214937516725
+    yaw: -256.79688
+    pitch: 38.700047
+  spikes:
+    world: survival
+    x: -14718.431048252341
+    y: 109.36401446582595
+    z: 2377.6984708337877
+    yaw: -225.61377
+    pitch: 87.6
+  podzol:
+    world: survival
+    x: -47657.69999998808
+    y: 85.77161103084269
+    z: 3725.300000011921
+    yaw: -227.11426
+    pitch: 19.500015
+  end:
+    world: survival_the_end
+    x: -127.81985387285675
+    y: 57.0
+    z: 0.44276089749198905
+    yaw: 265.0533
+    pitch: 23.550028
+  p:
+    world: survival
+    x: -48030.61303244502
+    y: 64.0
+    z: 3097.9927738514593
+    yaw: -240.61684
+    pitch: 1.5001057
+  well:
+    world: survival
+    x: 5606.908778716553
+    y: 108.7098230628097
+    z: 10164.386202926562
+    yaw: -229.06079
+    pitch: 81.599976
+  flower:
+    world: survival
+    x: 11270.699999988077
+    y: 64.20000004768372
+    z: 11140.037654548347
+    yaw: -71.10918
+    pitch: 11.849952
+  jungle:
+    world: survival
+    x: 12101.737023564308
+    y: 86.27725932983451
+    z: 11164.409791768103
+    yaw: 253.64082
+    pitch: 29.250006
+  rock:
+    world: survival
+    x: 104797.58931924713
+    y: 94.40228285311393
+    z: 12248.084049095933
+    yaw: 205.19891
+    pitch: 16.350136
+  travel:
+    world: survival
+    x: 152414.60919775846
+    y: 67.1800958603889
+    z: 10307.149359660409
+    yaw: 283.94547
+    pitch: 24.899958
+  storage:
+    world: survival
+    x: 1385.762499988079
+    y: 79.0
+    z: 807.7553252290562
+    yaw: -357.1639
+    pitch: 29.699852
+nickname: §1Total§2Derp
+powertools: {}

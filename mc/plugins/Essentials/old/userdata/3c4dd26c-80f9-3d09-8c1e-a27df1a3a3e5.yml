@@ -1,0 +1,20 @@
+lastAccountName: lightning_spark
+timestamps:
+  login: 1422027817028
+  logout: 1422028181490
+ipAddress: 104.176.154.22
+lastlocation:
+  world: survival
+  x: 279.5
+  y: 70.0
+  z: 302.5
+  yaw: 267.74973
+  pitch: 22.499868
+logoutlocation:
+  world: survival
+  x: 279.37377187891315
+  y: 70.0
+  z: 302.96893998659795
+  yaw: 266.40002
+  pitch: 9.449862
+money: '40.36'
