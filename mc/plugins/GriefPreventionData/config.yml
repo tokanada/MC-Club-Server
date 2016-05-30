@@ -6,9 +6,9 @@ GriefPrevention:
     survival_the_end: -1
   Claims:
     Mode:
+      survival_the_end: Survival
       survival_nether: Survival
       survival: Survival
-      survival_the_end: Survival
     PreventTheft: true
     ProtectCreatures: true
     PreventButtonsSwitches: true

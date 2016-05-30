@@ -1,156 +1,152 @@
-[22:32:54] [Server thread/INFO]: Starting minecraft server version 1.9.2
-[22:32:54] [Server thread/INFO]: Loading properties
-[22:32:54] [Server thread/INFO]: Default game type: SURVIVAL
-[22:32:54] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-5a40365-f631379 (MC: 1.9.2) (Implementing API version 1.9.2-R0.1-SNAPSHOT)
-[22:32:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:32:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:32:55] [Server thread/INFO]: Debug logging is disabled
-[22:32:55] [Server thread/INFO]: Generating keypair
-[22:32:55] [Server thread/INFO]: Starting Minecraft server on 192.168.1.69:25500
-[22:32:55] [Server thread/INFO]: Using epoll channel type
-[22:32:55] [Server thread/ERROR]: Ambiguous plugin name `LegendaryWeapons' for files `plugins/LegendaryWeapon.jar' and `plugins/LegendaryWeapons.jar' in `plugins'
-[22:32:55] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[22:32:56] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.5.5
-[22:32:56] [Server thread/INFO]: [Janus] Loading Janus v11
-[22:32:56] [Server thread/INFO]: [LegendaryArmor] Loading LegendaryArmor v2.1
-[22:32:56] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
-[22:32:56] [Server thread/INFO]: [LegendaryWeapons] Loading LegendaryWeapons v1.5
-[22:32:56] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.7Beta
-[22:32:56] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
-[22:32:56] [Server thread/INFO]: [MassiveBooks] Loading MassiveBooks v2.8.7Beta
-[22:32:56] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
-[22:32:56] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.0
-[22:32:56] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[22:32:56] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
-[22:32:56] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b717
-[22:32:56] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.11
-[22:32:56] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.2-SNAPSHOT;1653-65e48d1
-[22:32:56] [Server thread/INFO]: [MassiveTickets] Loading MassiveTickets v2.8.7Beta
-[22:32:56] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
-[22:32:56] [Server thread/INFO]: [TouchscreenHolograms] Loading TouchscreenHolograms v1.3.1
-[22:32:56] [Server thread/INFO]: [CombatIndicator] Loading CombatIndicator v2.0.14
-[22:32:56] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
-[22:32:56] [Server thread/INFO]: [CreativeGates] Loading CreativeGates v2.8.7Beta
-[22:32:56] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
-[22:32:56] [Server thread/INFO]: [ColoredTags] Loading ColoredTags v2.1.3
-[22:32:56] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
-[22:32:56] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v14.0.1
-[22:32:56] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
-[22:32:56] [Server thread/INFO]: [Factions] Loading Factions v2.8.7Beta
-[22:32:56] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.7Beta
-[22:32:56] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
-[22:32:56] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
-[22:32:56] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
-[22:32:56] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
-[22:32:56] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
-[22:32:56] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m25[0;33;1mms.[m
-[22:32:56] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m282ms[0;33;1m) ===[m
-[22:32:56] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
-[22:32:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[22:32:56] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
-[22:32:56] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[22:32:56] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
-[22:32:56] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
-[22:32:56] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationVault[m
-[22:32:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:32:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:32:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:32:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:32:56] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[22:32:56] [Server thread/INFO]: Preparing level "survival"
-[22:32:56] [Server thread/INFO]: -------- World Settings For [survival] --------
-[22:32:56] [Server thread/INFO]: Mob Spawn Range: 4
-[22:32:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:32:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:32:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:32:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[22:32:56] [Server thread/INFO]: Random Lighting Updates: false
-[22:32:56] [Server thread/INFO]: Structure Info Saving: true
-[22:32:56] [Server thread/INFO]: Max Entity Collisions: 8
-[22:32:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[22:32:56] [Server thread/INFO]: Max TNT Explosions: 100
-[22:32:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:32:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:32:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:32:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:32:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:32:56] [Server thread/INFO]: View Distance: 10
-[22:32:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:32:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:32:56] [Server thread/INFO]: -------- World Settings For [survival_nether] --------
-[22:32:56] [Server thread/INFO]: Mob Spawn Range: 4
-[22:32:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:32:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:32:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:32:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[22:32:56] [Server thread/INFO]: Random Lighting Updates: false
-[22:32:56] [Server thread/INFO]: Structure Info Saving: true
-[22:32:56] [Server thread/INFO]: Max Entity Collisions: 8
-[22:32:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[22:32:56] [Server thread/INFO]: Max TNT Explosions: 100
-[22:32:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:32:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:32:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:32:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:32:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:32:56] [Server thread/INFO]: View Distance: 10
-[22:32:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:32:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:32:56] [Server thread/INFO]: -------- World Settings For [survival_the_end] --------
-[22:32:56] [Server thread/INFO]: Mob Spawn Range: 4
-[22:32:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:32:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:32:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[22:32:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:32:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[22:32:56] [Server thread/INFO]: Random Lighting Updates: false
-[22:32:56] [Server thread/INFO]: Structure Info Saving: true
-[22:32:56] [Server thread/INFO]: Max Entity Collisions: 8
-[22:32:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[22:32:56] [Server thread/INFO]: Max TNT Explosions: 100
-[22:32:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:32:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:32:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:32:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[22:32:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:32:56] [Server thread/INFO]: View Distance: 10
-[22:32:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:32:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:32:57] [Server thread/INFO]: Preparing start region for level 0 (Seed: 97513267)
-[22:32:58] [Server thread/INFO]: Preparing spawn area: 12%
-[22:32:59] [Server thread/INFO]: Preparing start region for level 1 (Seed: 97513267)
-[22:33:00] [Server thread/INFO]: Preparing spawn area: 65%
-[22:33:00] [Server thread/INFO]: Preparing start region for level 2 (Seed: 97513267)
-[22:33:00] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5
-[22:33:00] [Server thread/INFO]: [Janus] Enabling Janus v11
-[22:33:00] [Server thread/INFO]: [LegendaryArmor] Enabling LegendaryArmor v2.1
-[22:33:00] [Server thread/INFO]: LegendaryArmor 2.1 has been enabled!
-[22:33:00] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
-[22:33:01] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[22:33:01] [Server thread/WARN]: [WorldEdit] 
+[15:34:50] [Server thread/INFO]: Starting minecraft server version 1.9.4
+[15:34:50] [Server thread/INFO]: Loading properties
+[15:34:50] [Server thread/INFO]: Default game type: SURVIVAL
+[15:34:50] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8a048fe-71e5248 (MC: 1.9.4) (Implementing API version 1.9.4-R0.1-SNAPSHOT)
+[15:34:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:34:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:34:50] [Server thread/INFO]: Debug logging is disabled
+[15:34:50] [Server thread/INFO]: Generating keypair
+[15:34:50] [Server thread/INFO]: Starting Minecraft server on 192.168.1.69:25500
+[15:34:50] [Server thread/INFO]: Using epoll channel type
+[15:34:50] [Server thread/ERROR]: Ambiguous plugin name `LegendaryWeapons' for files `plugins/LegendaryWeapon.jar' and `plugins/LegendaryWeapons.jar' in `plugins'
+[15:34:51] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:34:51] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[15:34:51] [Server thread/INFO]: [LegendaryArmor] Loading LegendaryArmor v2.1
+[15:34:51] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[15:34:51] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.0
+[15:34:51] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.5.5
+[15:34:51] [Server thread/INFO]: [Janus] Loading Janus v11
+[15:34:51] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.2-SNAPSHOT;1653-65e48d1
+[15:34:51] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b717
+[15:34:51] [Server thread/INFO]: [LegendaryWeapons] Loading LegendaryWeapons v1.5
+[15:34:51] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[15:34:51] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
+[15:34:51] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[15:34:51] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[15:34:51] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
+[15:34:51] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[15:34:51] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[15:34:51] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v14.0.1
+[15:34:51] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.7Beta
+[15:34:51] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[15:34:51] [Server thread/INFO]: [MassiveTickets] Loading MassiveTickets v2.8.7Beta
+[15:34:51] [Server thread/INFO]: [CreativeGates] Loading CreativeGates v2.8.7Beta
+[15:34:51] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.11
+[15:34:51] [Server thread/INFO]: [Factions] Loading Factions v2.8.7Beta
+[15:34:51] [Server thread/INFO]: [ColoredTags] Loading ColoredTags v2.1.3
+[15:34:51] [Server thread/INFO]: [MassiveBooks] Loading MassiveBooks v2.8.7Beta
+[15:34:51] [Server thread/INFO]: [CombatIndicator] Loading CombatIndicator v2.0.14
+[15:34:51] [Server thread/INFO]: [TouchscreenHolograms] Loading TouchscreenHolograms v1.3.1
+[15:34:51] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[15:34:51] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:34:51] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:34:51] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:34:51] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:34:51] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[15:34:51] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.7Beta
+[15:34:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:34:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[15:34:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
+[15:34:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
+[15:34:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
+[15:34:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m17[0;33;1mms.[m
+[15:34:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationVault[m
+[15:34:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m366ms[0;33;1m) ===[m
+[15:34:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:34:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:34:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:34:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:34:51] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:34:52] [Server thread/INFO]: Preparing level "survival"
+[15:34:52] [Server thread/INFO]: -------- World Settings For [survival] --------
+[15:34:52] [Server thread/INFO]: Mob Spawn Range: 4
+[15:34:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:34:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:34:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:34:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:34:52] [Server thread/INFO]: Random Lighting Updates: false
+[15:34:52] [Server thread/INFO]: Structure Info Saving: true
+[15:34:52] [Server thread/INFO]: Max Entity Collisions: 8
+[15:34:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:34:52] [Server thread/INFO]: Max TNT Explosions: 100
+[15:34:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:34:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:34:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:34:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:34:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:34:52] [Server thread/INFO]: View Distance: 10
+[15:34:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:34:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:34:52] [Server thread/INFO]: -------- World Settings For [survival_nether] --------
+[15:34:52] [Server thread/INFO]: Mob Spawn Range: 4
+[15:34:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:34:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:34:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:34:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:34:52] [Server thread/INFO]: Random Lighting Updates: false
+[15:34:52] [Server thread/INFO]: Structure Info Saving: true
+[15:34:52] [Server thread/INFO]: Max Entity Collisions: 8
+[15:34:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:34:52] [Server thread/INFO]: Max TNT Explosions: 100
+[15:34:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:34:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:34:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:34:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:34:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:34:52] [Server thread/INFO]: View Distance: 10
+[15:34:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:34:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:34:52] [Server thread/INFO]: -------- World Settings For [survival_the_end] --------
+[15:34:52] [Server thread/INFO]: Mob Spawn Range: 4
+[15:34:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:34:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:34:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:34:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:34:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:34:52] [Server thread/INFO]: Random Lighting Updates: false
+[15:34:52] [Server thread/INFO]: Structure Info Saving: true
+[15:34:52] [Server thread/INFO]: Max Entity Collisions: 8
+[15:34:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:34:52] [Server thread/INFO]: Max TNT Explosions: 100
+[15:34:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:34:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:34:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:34:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:34:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:34:52] [Server thread/INFO]: View Distance: 10
+[15:34:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:34:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:34:52] [Server thread/INFO]: Preparing start region for level 0 (Seed: 97513267)
+[15:34:53] [Server thread/INFO]: Preparing spawn area: 27%
+[15:34:54] [Server thread/INFO]: Preparing start region for level 1 (Seed: 97513267)
+[15:34:55] [Server thread/INFO]: Preparing spawn area: 89%
+[15:34:55] [Server thread/INFO]: Preparing start region for level 2 (Seed: 97513267)
+[15:34:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[15:34:56] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:34:56] [Server thread/WARN]: [WorldEdit] 
 **********************************************
 ** This WorldEdit version does not fully support your version of Bukkit.
 **
@@ -161,101 +157,114 @@
 ** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
 **********************************************
 
-[22:33:01] [Server thread/INFO]: [LegendaryWeapons] Enabling LegendaryWeapons v1.5
-[22:33:01] [Server thread/INFO]: [LegendaryWeapons] Loaded 13 weapons from the config
-[22:33:01] [Server thread/INFO]: [MassiveBooks] Enabling MassiveBooks v2.8.7Beta
-[22:33:01] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveBooks 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
-[22:33:01] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveBooks 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m38ms[0;33;1m) ===[m
-[22:33:01] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.0
-[22:33:01] [Server thread/INFO]: [ClearLag] Loading modules...
-[22:33:01] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[22:33:01] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[22:33:01] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[22:33:01] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[22:33:01] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[22:33:01] [Thread-22/INFO]: [ClearLag] Checking for updates...
-[22:33:01] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[22:33:01] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[22:33:01] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[22:33:01] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[22:33:01] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b717
-[22:33:02] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
-[22:33:02] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b717 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
-[22:33:02] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.11
-[22:33:02] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2-SNAPSHOT;1653-65e48d1
-[22:33:02] [Thread-22/INFO]: [ClearLag] No updates found!
-[22:33:02] [Server thread/INFO]: [WorldGuard] Default configuration file written: /media/flutters/4CF2-C4C3/official/mc/plugins/WorldGuard/config.yml
-[22:33:02] [Server thread/INFO]: [WorldGuard] Default configuration file written: /media/flutters/4CF2-C4C3/official/mc/plugins/WorldGuard/worlds/survival/config.yml
-[22:33:02] [Server thread/INFO]: [WorldGuard] Default configuration file written: /media/flutters/4CF2-C4C3/official/mc/plugins/WorldGuard/worlds/survival/blacklist.txt
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
-[22:33:02] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
-[22:33:02] [Server thread/INFO]: [WorldGuard] Default configuration file written: /media/flutters/4CF2-C4C3/official/mc/plugins/WorldGuard/worlds/survival_nether/config.yml
-[22:33:02] [Server thread/INFO]: [WorldGuard] Default configuration file written: /media/flutters/4CF2-C4C3/official/mc/plugins/WorldGuard/worlds/survival_nether/blacklist.txt
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival_nether) TNT ignition is PERMITTED.
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
-[22:33:02] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_nether'
-[22:33:02] [Server thread/INFO]: [WorldGuard] Default configuration file written: /media/flutters/4CF2-C4C3/official/mc/plugins/WorldGuard/worlds/survival_the_end/config.yml
-[22:33:02] [Server thread/INFO]: [WorldGuard] Default configuration file written: /media/flutters/4CF2-C4C3/official/mc/plugins/WorldGuard/worlds/survival_the_end/blacklist.txt
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival_the_end) TNT ignition is PERMITTED.
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
-[22:33:02] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
-[22:33:02] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_the_end'
-[22:33:02] [Server thread/INFO]: [WorldGuard] Loading region data...
-[22:33:02] [Server thread/INFO]: [WorldGuard] Unloading and saving region data that is currently loaded...
-[22:33:02] [Server thread/INFO]: [WorldGuard] Loading region data for loaded worlds...
-[22:33:02] [Server thread/INFO]: [WorldGuard] Regions saved after UUID migration! This won't happen again unless you change the relevant configuration option in WorldGuard's config.
-[22:33:02] [Server thread/INFO]: [MassiveTickets] Enabling MassiveTickets v2.8.7Beta
-[22:33:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveTickets 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
-[22:33:02] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveTickets 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m55ms[0;33;1m) ===[m
-[22:33:02] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
-[22:33:02] [Server thread/INFO]: Bukkit version format changed. Version not checked.
-[22:33:02] [Server thread/INFO]: git-Spigot-5a40365-f631379 (MC: 1.9.2)
-[22:33:02] [Server thread/INFO]: 1.9.2-R0.1-SNAPSHOT
-[22:33:03] [Server thread/INFO]: Using locale en_US
-[22:33:03] [Server thread/INFO]: Using locale en_US
-[22:33:03] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
-[22:33:03] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
-[22:33:03] [Server thread/INFO]: [TouchscreenHolograms] Enabling TouchscreenHolograms v1.3.1
-[22:33:03] [Server thread/INFO]: [CombatIndicator] Enabling CombatIndicator v2.0.14
-[22:33:03] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
-[22:33:03] [Server thread/INFO]: [CreativeGates] Enabling CreativeGates v2.8.7Beta
-[22:33:03] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
-[22:33:03] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m27ms[0;33;1m) ===[m
-[22:33:03] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
-[22:33:03] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
-[22:33:03] [Server thread/INFO]: [ColoredTags] Enabling ColoredTags v2.1.3
-[22:33:03] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
-[22:33:03] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v14.0.1
-[22:33:03] [Server thread/INFO]: GriefPrevention: Grief Prevention boot start.
-[22:33:03] [Server thread/INFO]: GriefPrevention: Finished loading configuration.
-[22:33:03] [Server thread/INFO]: GriefPrevention: 0 total claims loaded.
-[22:33:04] [Server thread/INFO]: GriefPrevention: Customizable messages loaded.
-[22:33:04] [Server thread/INFO]: GriefPrevention: Successfully hooked into WorldGuard.
-[22:33:04] [Server thread/INFO]: GriefPrevention: Finished loading data (File Mode).
-[22:33:04] [Server thread/INFO]: GriefPrevention: Boot finished.
-[22:33:04] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
-[22:33:04] [Server thread/INFO]: [Factions] Enabling Factions v2.8.7Beta
-[22:33:04] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
-[22:33:04] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationWorldGuard[m
-[22:33:04] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationSpigot[m
-[22:33:04] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m178ms[0;33;1m) ===[m
-[22:33:04] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m178ms[0;33;1m) ===[m
-[22:33:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:33:04] [Server thread/INFO]: Done (8.158s)! For help, type "help" or "?"
-[22:33:04] [Server thread/INFO]: Starting GS4 status listener
-[22:33:04] [Query Listener #1/INFO]: Query running on 192.168.1.69:25500
-[22:33:04] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.1.12
-[22:33:04] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
-[22:33:04] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
-[22:33:04] [Craft Scheduler Thread - 13/INFO]: [Vault] Checking for Updates ... 
-[22:33:05] [Craft Scheduler Thread - 13/INFO]: [Vault] No new version available
-[22:34:15] [Server thread/INFO]: Plugins (25): [0;32;1mAutoMessage[0;37;1m, [0;32;1mJanus[0;37;1m, [0;32;1mLegendaryArmor[0;37;1m, [0;32;1mWorldEdit[0;37;1m, [0;32;1mLegendaryWeapons[0;37;1m, [0;32;1mMassiveCore[0;37;1m, [0;32;1mMassiveBooks[0;37;1m, [0;32;1mVault[0;37;1m, [0;32;1mClearLag[0;37;1m, [0;32;1mPermissionsEx[0;37;1m, [0;32;1mMultiverse-Core[0;37;1m, [0;32;1mHolographicDisplays[0;37;1m, [0;32;1mWorldGuard[0;37;1m, [0;32;1mMassiveTickets[0;37;1m, [0;32;1mEssentials[0;37;1m, [0;32;1mTouchscreenHolograms[0;37;1m, [0;32;1mCombatIndicator[0;37;1m, [0;32;1mEssentialsSpawn[0;37;1m, [0;32;1mCreativeGates[0;37;1m, [0;32;1mEssentialsGeoIP[0;37;1m, [0;32;1mColoredTags[0;37;1m, [0;32;1mEssentialsChat[0;37;1m, [0;32;1mGriefPrevention[0;37;1m, [0;32;1mEssentialsAntiBuild[0;37;1m, [0;32;1mFactions[m
-[22:39:44] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[22:40:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[22:40:44] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[15:34:56] [Server thread/INFO]: [LegendaryArmor] Enabling LegendaryArmor v2.1
+[15:34:56] [Server thread/INFO]: LegendaryArmor 2.1 has been enabled!
+[15:34:56] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[15:34:56] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[15:34:56] [Server thread/INFO]: git-Spigot-8a048fe-71e5248 (MC: 1.9.4)
+[15:34:56] [Server thread/INFO]: 1.9.4-R0.1-SNAPSHOT
+[15:34:56] [Server thread/INFO]: Using locale en_US
+[15:34:56] [Server thread/INFO]: Using locale en_US
+[15:34:56] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[15:34:56] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[15:34:56] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[15:34:56] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.0
+[15:34:56] [Server thread/INFO]: [ClearLag] Loading modules...
+[15:34:56] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[15:34:56] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[15:34:56] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[15:34:56] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5
+[15:34:56] [Thread-18/INFO]: [ClearLag] Checking for updates...
+[15:34:56] [Server thread/INFO]: [Janus] Enabling Janus v11
+[15:34:56] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2-SNAPSHOT;1653-65e48d1
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[15:34:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival_nether) TNT ignition is PERMITTED.
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[15:34:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_nether'
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival_the_end) TNT ignition is PERMITTED.
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[15:34:56] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[15:34:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_the_end'
+[15:34:56] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:34:57] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b717
+[15:34:57] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[15:34:57] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b717 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[15:34:57] [Server thread/INFO]: [LegendaryWeapons] Enabling LegendaryWeapons v1.5
+[15:34:57] [Server thread/INFO]: [LegendaryWeapons] Loaded 13 weapons from the config
+[15:34:57] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[15:34:57] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
+[15:34:57] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+[15:34:57] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[15:34:57] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:34:57] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:34:57] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:34:57] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:34:57] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[15:34:57] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[15:34:57] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
+[15:34:57] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[15:34:57] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v14.0.1
+[15:34:57] [Server thread/INFO]: GriefPrevention: Grief Prevention boot start.
+[15:34:57] [Server thread/INFO]: GriefPrevention: Finished loading configuration.
+[15:34:57] [Server thread/INFO]: GriefPrevention: 0 total claims loaded.
+[15:34:58] [Server thread/INFO]: GriefPrevention: Customizable messages loaded.
+[15:34:58] [Server thread/INFO]: GriefPrevention: Successfully hooked into WorldGuard.
+[15:34:58] [Server thread/INFO]: GriefPrevention: Finished loading data (File Mode).
+[15:34:58] [Server thread/INFO]: GriefPrevention: Boot finished.
+[15:34:58] [Server thread/INFO]: [MassiveTickets] Enabling MassiveTickets v2.8.7Beta
+[15:34:58] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveTickets 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:34:58] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveTickets 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m62ms[0;33;1m) ===[m
+[15:34:58] [Server thread/INFO]: [CreativeGates] Enabling CreativeGates v2.8.7Beta
+[15:34:58] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:34:58] [Thread-18/INFO]: [ClearLag] No updates found!
+[15:34:58] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m55ms[0;33;1m) ===[m
+[15:34:58] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.11
+[15:34:58] [Server thread/INFO]: 
+ 
+******************************************************
+     This version of HolographicDisplays can
+     only work on these server versions:
+     from 1.6.4 to 1.9.
+     The plugin will be disabled.
+******************************************************
+
+[15:35:03] [Server thread/INFO]: [Factions] Enabling Factions v2.8.7Beta
+[15:35:03] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:35:03] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationWorldGuard[m
+[15:35:03] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m[0;32;1mActivated Integration [0;35;1mIntegrationSpigot[m
+[15:35:03] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m175ms[0;33;1m) ===[m
+[15:35:03] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m176ms[0;33;1m) ===[m
+[15:35:03] [Server thread/INFO]: [ColoredTags] Enabling ColoredTags v2.1.3
+[15:35:03] [Server thread/INFO]: [MassiveBooks] Enabling MassiveBooks v2.8.7Beta
+[15:35:03] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveBooks 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:35:03] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveBooks 2.8.7Beta[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m98ms[0;33;1m) ===[m
+[15:35:03] [Server thread/INFO]: [CombatIndicator] Enabling CombatIndicator v2.0.14
+[15:35:03] [Server thread/ERROR]: [CombatIndicator] *** No plugin for holograms installed and enabled. ***
+[15:35:03] [Server thread/ERROR]: [CombatIndicator] *** This plugin will be disabled. ***
+[15:35:03] [Server thread/INFO]: [TouchscreenHolograms] Enabling TouchscreenHolograms v1.3.1
+[15:35:03] [Server thread/INFO]:  
+ 
+***********************************************
+     TouchscreenHolograms requires the plugin
+     HolographicDisplays v2+ enabled to run.
+     This plugin will be disabled.
+***********************************************
+ 
+[15:35:08] [Server thread/INFO]: [TouchscreenHolograms] Disabling TouchscreenHolograms v1.3.1
+[15:35:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:35:08] [Server thread/INFO]: Done (16.722s)! For help, type "help" or "?"
+[15:35:08] [Server thread/INFO]: Starting GS4 status listener
+[15:35:08] [Query Listener #1/INFO]: Query running on 192.168.1.69:25500
+[15:35:08] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.1.13
+[15:35:08] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[15:35:08] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[15:35:08] [Craft Scheduler Thread - 8/INFO]: [Vault] Checking for Updates ... 
+[15:35:09] [Craft Scheduler Thread - 8/INFO]: [Vault] No new version available
+[15:35:23] [Server thread/INFO]: Plugins (25): [0;32;1mWorldEdit[0;37;1m, [0;32;1mLegendaryArmor[0;37;1m, [0;32;1mEssentials[0;37;1m, [0;32;1mClearLag[0;37;1m, [0;32;1mAutoMessage[0;37;1m, [0;32;1mJanus[0;37;1m, [0;32;1mWorldGuard[0;37;1m, [0;32;1mMultiverse-Core[0;37;1m, [0;32;1mLegendaryWeapons[0;37;1m, [0;32;1mEssentialsChat[0;37;1m, [0;32;1mEssentialsGeoIP[0;37;1m, [0;32;1mPermissionsEx[0;37;1m, [0;32;1mEssentialsAntiBuild[0;37;1m, [0;32;1mVault[0;37;1m, [0;32;1mEssentialsSpawn[0;37;1m, [0;32;1mGriefPrevention[0;37;1m, [0;32;1mMassiveCore[0;37;1m, [0;32;1mMassiveTickets[0;37;1m, [0;32;1mCreativeGates[0;37;1m, [0;31;1mHolographicDisplays[0;37;1m, [0;32;1mFactions[0;37;1m, [0;32;1mColoredTags[0;37;1m, [0;32;1mMassiveBooks[0;37;1m, [0;31;1mCombatIndicator[0;37;1m, [0;31;1mTouchscreenHolograms[m
